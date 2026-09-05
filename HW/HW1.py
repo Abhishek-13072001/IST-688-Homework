@@ -38,7 +38,7 @@ else:
     # Model selector (Task 3b requirement)
     model_choice = st.selectbox(
         "Select an LLM model:",
-        ("gpt-3.5-turbo", "gpt-4.1", "gpt-5-chat-latest", "gpt-5-nano")
+        ("gpt-3.5-turbo", "gpt-4.1", "gpt-5-mini", "gpt-5-nano")
     )
 
     # File uploader (.pdf and .txt only)
