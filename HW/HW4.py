@@ -80,18 +80,24 @@ def get_or_build_vectordb():
     chroma_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
     collection = chroma_client.get_or_create_collection(name="HW4Collection")
 
-    # If the collection already has data, don't rebuild (saves embedding cost)
-    if collection.count() > 0:
+    html_files = [f for f in os.listdir(HTML_FOLDER) if f.lower().endswith(".html")]
+    expected_chunks = len(html_files) * 2  # 2 chunks per file
+
+    # If the collection is INCOMPLETE (not just non-empty), wipe it and rebuild
+    if 0 < collection.count() < expected_chunks:
+        chroma_client.delete_collection("HW4Collection")
+        collection = chroma_client.get_or_create_collection(name="HW4Collection")
+
+    # If already fully built, reuse it
+    if collection.count() >= expected_chunks:
         return collection
 
-    html_files = [f for f in os.listdir(HTML_FOLDER) if f.lower().endswith(".html")]
+    # ---- build from scratch (unchanged from before) ----
     progress = st.progress(0, text="Building vector database (first run only)...")
-
     for idx, filename in enumerate(html_files):
         file_path = os.path.join(HTML_FOLDER, filename)
         full_text = read_html_file(file_path)
         chunks = chunk_text(full_text)
-
         for chunk_idx, chunk in enumerate(chunks):
             if not chunk:
                 continue
@@ -102,10 +108,8 @@ def get_or_build_vectordb():
                 ids=[f"{filename}_chunk{chunk_idx}"],
                 metadatas=[{"filename": filename, "chunk": chunk_idx}]
             )
-
         progress.progress((idx + 1) / len(html_files),
                            text=f"Embedding {idx + 1}/{len(html_files)}: {filename}")
-
     progress.empty()
     return collection
 
