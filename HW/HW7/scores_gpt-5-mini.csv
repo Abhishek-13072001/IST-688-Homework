@@ -1,0 +1,1065 @@
+article_id,relevance,about_company,reason,coverage,score
+a0000,0,False,"Route and capacity changes concern Cebu Pacific operations, not Airbus corporate or legal matters.",0,0
+a0001,0,False,"This is about Allegiant and Boeing delivery timing, with no direct relevance to Airbus.",0,0
+a0002,0,False,A safety incident involving an Airbus A330 could trigger regulator reports or manufacturer inquiries that lawyers may monitor.,0,0
+a0003,0,False,"Route launch concerns Azul’s commercial operations and aircraft use, not Airbus-specific legal issues.",0,0
+a0004,6,True,"Discussion of a potential A220 stretch and Airbus’s production/supply-chain decisions has commercial, regulatory and contractual implications for Airbus.",0,54
+a0005,0,False,"Article is about Lufthansa retiring aircraft models, not Airbus, and presents no apparent legal angle.",0,0
+a0006,0,True,Corporate “About us” page—informational and routine with no legal or regulatory implications.,0,0
+a0007,7,True,"$1B charge and announced changes to Airbus’s Space segment could raise contract, compliance and restructuring legal issues.",0,63
+a0008,7,True,"Quarterly profit hit tied to industrial costs and a space charge that may prompt contract disputes, disclosure and regulatory concerns.",0,63
+a0009,8,True,"Significant profit decline from space-business charges and supply-chain problems that could trigger legal, disclosure and contract-risk scrutiny.",0,72
+a0010,5,True,"Discusses Airbus production snarls and supply-chain/skills shortages that could create contract, compliance or regulatory risks for lawyers to monitor.",0,45
+a0011,0,False,"Generic market research press release about the semiconductor test market, not specifically about ASE Group.",0,0
+a0012,0,False,Broad market research on semiconductor packaging materials with no direct reference to ASM Pacific Technology.,0,0
+a0013,1,True,Consumer price promotion for an ASUS laptop with no apparent legal or regulatory implications.,0,9
+a0014,1,True,Product discount coverage of an ASUS VivoBook with no material legal relevance.,0,9
+a0015,1,True,"Product comparison/review with no apparent legal, regulatory, or compliance implications.",0,9
+a0016,6,True,Leaked product details and an apparent NDA breach could create IP/NDA and PR/legal exposure for the company.,0,54
+a0017,1,True,Consumer review of a new product with no clear legal or regulatory angle.,1,11
+a0018,1,True,Product review noting some past hardware issues but otherwise routine coverage without immediate legal implications.,0,9
+a0019,1,True,Laptop review focused on display and performance with no discernible legal or compliance relevance.,0,9
+a0020,1,True,Consumer hardware review of an Asus handheld PC — no legal or regulatory implications expected.,1,11
+a0021,1,True,Product review of an Asus laptop with no apparent legal or regulatory issues.,0,9
+a0022,1,True,Review of an Asus Chromebook; routine product coverage without legal relevance.,0,9
+a0023,1,True,Asus press release announcing a new monitor — standard marketing/product news with no legal angle.,0,9
+a0024,7,True,"Accenture Federal awarded an $81M SSA automation contract — significant government procurement with potential compliance, bid/contract risk, or protest implications.",0,63
+a0025,4,True,"Accenture authored the AWS-commissioned study on cloud vs on-prem emissions — relevant for ESG, sustainability reporting and potential regulatory/clients advisory work.",0,36
+a0026,7,True,"Accenture Federal Services won an $81M, 5-year AI contract with the Social Security Administration, a significant government procurement with compliance and contracting implications.",1,65
+a0027,7,True,Public announcement of the $81M SSA AI/ML contract for Accenture Federal Services — material government business with regulatory and contract-performance considerations.,1,65
+a0028,6,True,"Accenture's CHRO is retiring and reflects on major HR shifts (DEI, upskilling), a notable leadership change with potential workforce and governance impacts.",0,54
+a0029,6,True,"Accenture expanding a partnership with SandboxAQ on enterprise encryption and quantum-safe data protection, relevant to data-security, compliance and future-proofing client services.",0,54
+a0030,1,True,"Product review of an Acer laptop with no legal, regulatory, or corporate transaction implications.",0,9
+a0031,1,True,Retail discount announcement for an Acer Chromebook with no legal or compliance relevance.,0,9
+a0032,1,True,"Review of an Acer pre-built desktop focused on consumer features and pricing, not legal issues.",0,9
+a0033,1,True,"Price drop news for Acer Chromebook models, a routine retail update with no apparent legal angle.",0,9
+a0034,1,True,"Product listing and pricing for a forthcoming Acer laptop using Intel chips, which is commercial/product news rather than a legal matter.",0,9
+a0035,1,True,Product launch of a new Acer gaming monitor is routine commercial news with no immediate legal or regulatory angle.,0,9
+a0036,1,True,A review of Acer’s Predator Orion 5000 is consumer/product coverage without apparent legal implications.,0,9
+a0037,1,True,A retail discount for an Acer Chromebook is marketing/sales news and not legally significant.,0,9
+a0038,1,True,A limited-time subscription discount from Adobe is commercial/promotion news with no legal or regulatory issue indicated.,0,9
+a0039,2,True,Technical compatibility update for Adobe Premiere Pro on ARM is operational/product news; minor potential IP/compatibility or licensing considerations but no immediate legal action reported.,0,18
+a0040,4,True,Product update for Adobe Express for Education is business/PR news with potential implications for classroom deployments and student data/privacy policies.,0,36
+a0041,0,False,Health story uses an Adobe stock image but is not about Adobe the company.,0,0
+a0042,0,False,"Medical research article that only references Adobe as image attribution, not the company itself.",0,0
+a0043,4,True,Forrester analyst evaluation of Adobe services could affect market positioning and vendor selection in client contracting.,0,36
+a0044,4,True,Adobe press release about expanding AI tools in K–12 is company product/PR news with possible compliance and procurement implications for education customers.,0,36
+a0045,4,True,"Product/marketing news about Adobe's generative AI adoption that could raise IP, licensing or compliance questions but contains no immediate legal action.",0,36
+a0046,1,True,Routine product/porting update about an ARM-native Illustrator beta with no apparent legal implications.,0,9
+a0047,1,True,Another report of the Illustrator beta for Windows on Arm — standard product news without legal/regulatory elements.,0,9
+a0048,6,True,"Earnings analysis of AMD is material financial news that can affect securities, disclosure and investor-relations legal considerations.",0,54
+a0049,6,True,"Post-earnings buy/sell analysis of AMD is relevant to securities, disclosure and corporate governance monitoring.",0,54
+a0050,4,True,"Earnings beat and strong data-center sales are material business developments that could affect contracts, disclosure obligations and investor relations issues.",0,36
+a0051,4,True,"Raised AI revenue forecast and supply tightness are significant commercial updates with potential contract, supply-chain and disclosure implications.",0,36
+a0052,4,True,Record data-center sales and beating targets are material financial developments relevant to securities disclosure and commercial agreements.,0,36
+a0053,3,True,Revised-up profit forecast is general financial news indicating stronger demand but presents limited immediate legal risk.,0,27
+a0054,3,True,An earnings-call transcript is routine investor relations content that may contain forward-looking statements of interest to securities counsel.,0,27
+a0055,1,True,This is a product showcase/marketing announcement with no apparent legal or regulatory implications.,0,9
+a0056,7,True,Material upgrade to full-year operating profit guidance is a significant securities/financial development that could prompt disclosure and compliance review.,1,65
+a0057,7,True,"Same material financial guidance upgrade as reported elsewhere, relevant for investor disclosure and regulatory monitoring.",1,65
+a0058,0,False,Article focuses on Nuvei’s acquisition of Pay2All and does not appear to involve Advent International directly.,0,0
+a0059,9,True,"Reports that Advent International is part of a take-private acquisition of Pay2All, a transaction with clear M&A, regulatory and due-diligence implications.",0,81
+a0060,4,True,"Portfolio company underperforming under Advent could lead to contractual, earn‑out or investor litigation and affect exit value.",0,36
+a0061,9,True,"A full acquisition/divestiture from Advent is a major transaction with regulatory, contractual and compliance implications.",0,81
+a0062,7,True,"Planned IPO of an Advent portfolio company raises securities, disclosure and regulatory considerations for counsel.",0,63
+a0063,7,True,Acquisition of luxury fragrance brands by Advent involves M&A issues including IP transfers and commercial contracts.,0,63
+a0064,9,True,"Advent exploring sale of CCC signals a potential major divestment with antitrust, transaction and disclosure consequences.",0,81
+a0065,2,True,Investor comparison article is routine market commentary with no apparent legal or regulatory implications.,0,18
+a0066,2,True,Quarterly earnings timing is routine disclosure information with minimal direct legal impact.,0,18
+a0067,8,True,"Pursuit of FedRAMP High and DoD Impact Level accreditations has significant government-contracting, compliance and regulatory implications.",0,72
+a0068,5,True,"New research on rising web/API attacks could affect breach preparedness, liability exposure and compliance obligations.",0,45
+a0069,0,False,General piece on late-stage medtech investing may touch on transactional and regulatory risks but is not specifically about Ally Bridge Group.,0,0
+a0070,0,False,"Industry-level decline in US PE/VC investments in China could signal transactional, regulatory and geopolitical risks for investors and portfolio firms, which lawyers monitoring cross‑border deals would care about.",0,0
+a0071,10,True,Landmark U.S. antitrust ruling finding Google a monopolist and opening a remedies phase (including possible breakup) is directly material to Alphabet's legal exposure and regulatory strategy.,0,90
+a0072,9,True,Coverage of the same major antitrust judgment against Google and its implications for Big Tech is highly relevant to Alphabet’s ongoing litigation and regulatory risk.,0,81
+a0073,2,True,Short-term market sell‑off affecting Alphabet’s stock value is primarily financial/newsworthy but presents no immediate legal or regulatory development.,1,20
+a0074,3,True,Market‑wide share declines including Alphabet are business news of potential financial significance but do not report any direct legal or regulatory actions.,1,29
+a0075,0,False,"Article is about a restaurant and local neighborhood (Alphabet City), not the Alphabet Inc. corporate entity.",0,0
+a0076,0,False,"Piece discusses the children's alphabet song, unrelated to Alphabet Inc.'s business or legal matters.",0,0
+a0077,0,False,Viral TikTok/education story about the alphabet song with no connection to Alphabet Inc.,0,0
+a0078,0,False,"Education-focused article on a modified ABC song, not about Alphabet Inc.",0,0
+a0079,8,True,"Reports a leadership change (new CFO) at Alphabet, which has material implications for financial guidance, disclosures and investor/regulatory matters.",0,72
+a0080,0,False,"Article is about a restaurant in Alphabet City (neighborhood), not the company Alphabet (Google).",0,0
+a0081,10,True,"U.K. Competition and Markets Authority is investigating Alphabet's partnership with Anthropic, a significant regulatory probe with potential enforcement implications.",0,90
+a0082,0,False,"Article concerns the Amazon rainforest and climate research, not the company Amazon.",0,0
+a0083,0,False,"Story is about violence in the Amazon region (rainforest), not the company Amazon.",0,0
+a0084,1,True,Consumer retail promotion on Amazon's marketplace (discounted Apple Watch) with no apparent legal or regulatory angle.,0,9
+a0085,7,True,"Revenue forecast below Wall Street targets and slowing sales growth is a material financial development that could affect investor, regulatory and contractual exposure.",0,63
+a0086,6,True,"Quarterly profit increase but missed revenue estimates is a significant financial result that may influence disclosure, investor communications and market reactions.",0,54
+a0087,2,True,A product milestone for Amazon Web Services is primarily marketing/technology news with limited legal implications.,0,18
+a0088,5,True,Company warning about consumer behavior and uncertain guidance is general business news with possible investor-relations and disclosure implications.,0,45
+a0089,6,True,Sales missing estimates while profits beat expectations is a material earnings outcome that could affect investor relations and contractual/financial considerations.,0,54
+a0090,4,True,"Product/AI upgrade is mainly business/tech news but raises privacy, compliance and potential labor/retail regulatory considerations lawyers will want to monitor.",0,36
+a0091,3,True,Analyst and Wall Street estimate coverage is routine financial reporting with limited immediate legal implications beyond disclosure sensitivity.,0,27
+a0092,2,True,Report of an institutional investor increasing its stake is routine investor relations news with minor potential for filing or governance implications.,0,18
+a0093,1,True,A small shareholder sale is routine trading activity with no substantive legal angle.,0,9
+a0094,4,True,"A large increase in an institutional stake could have disclosure, governance or takeover-related implications worth watching.",0,36
+a0095,4,True,"Discusses Amdocs' GenAI strategy and implementation risks which could touch on compliance, data protection and vendor-contract issues relevant to counsel.",0,36
+a0096,4,True,Routine earnings release scheduling; useful for monitoring disclosure timing but not a legal event by itself.,0,36
+a0097,1,True,Options trading flow is market/financial news with no direct legal or regulatory implication for the company.,0,9
+a0098,1,True,Technical stock-rating movement is routine market commentary without a legal angle.,0,9
+a0099,1,True,Options market summaries are trading-focused and do not indicate legal or regulatory developments.,0,9
+a0100,6,True,"Earnings guidance and a projected double-digit profit dip could raise securities, disclosure and investor-relations/legal risk for the company.",0,54
+a0101,2,True,Routine accelerator/investment news with minimal immediate legal implications beyond standard deal documentation.,0,18
+a0102,4,True,"Press release of a VC investment signals transactional activity and potential portfolio exposure, relevant for diligence and contract tracking.",0,36
+a0103,4,True,A partner’s political endorsement can create reputational and political‑activity compliance considerations for the firm.,0,36
+a0104,4,True,Broad VC political mobilization may pose reputational and compliance issues for participating firms and partners.,0,36
+a0105,3,True,Thought piece from a16z on AI in sales is general industry commentary with limited immediate legal impact.,0,27
+a0106,6,True,"Large financing led by Andreessen Horowitz could involve significant deal, diligence and regulatory considerations.",0,54
+a0107,9,True,Apax’s $1.75B take-private of Thoughtworks is a major M&A transaction with substantial legal implications.,3,87
+a0108,10,True,Law360 coverage of the $1.75B Thoughtworks-Apax deal and the advising firms is directly relevant to transactional and regulatory counsel.,0,90
+a0109,9,True,"WSJ report confirms Apax’s acquisition of Thoughtworks, a significant corporate transaction for legal teams to track.",3,87
+a0110,9,True,"This is a take-private acquisition by Apax—a major M&A event with attendant deal, regulatory and transactional legal issues.",0,81
+a0111,9,True,"Reports the $1.75bn take-private acquisition by Apax, a high-priority M&A transaction with regulatory and contractual implications.",3,87
+a0112,9,True,"Coverage of Apax’s acquisition of Thoughtworks, a material deal requiring legal oversight on transaction documentation and approvals.",3,87
+a0113,8,True,"Apax-backed portfolio company is in talks with lenders for new financing, indicating potential refinancing, covenant/default risk or restructuring work.",0,72
+a0114,1,True,Product discount/report on Apple Watch pricing is routine consumer news with no immediate legal significance.,0,9
+a0115,9,True,Antitrust victory against Google creates precedent and regulatory momentum that could directly affect Apple’s ongoing monopoly and antitrust litigation.,0,81
+a0116,3,True,"Leaked backend prompts are mainly product/engineering news but could raise IP, privacy, or compliance questions if sensitive instructions are exposed.",0,27
+a0117,1,True,Opinion/consumer piece with no apparent legal or regulatory implications.,0,9
+a0118,5,True,"Coverage criticizing Apple Intelligence may feed into consumer protection, marketing-claim scrutiny, or product liability discussions.",0,45
+a0119,2,True,User-focused product review with minimal immediate legal relevance.,0,18
+a0120,1,True,"Promotional content for an Apple TV+ show with no apparent legal, regulatory, or financial implications.",0,9
+a0121,7,True,"Material financial news on revenue recovery and demand in China that could affect securities, disclosures and commercial strategy.",0,63
+a0122,4,True,"Product/feature review of Apple Intelligence that may flag future privacy, IP or regulatory issues but is primarily user-focused.",0,36
+a0123,4,True,Earnings webcast notice is an investor disclosure event relevant to securities compliance and forward guidance.,0,36
+a0124,5,True,Analyst/press commentary linking AI demand to Applied Materials’ earnings could influence market expectations and disclosures.,0,45
+a0125,8,True,"Denial of CHIPS Act funding is a significant government decision that affects Applied Materials' strategy and may raise procurement, compliance or appeal considerations for counsel.",1,74
+a0126,8,True,A reported $4 billion CHIPS Act grant denial is material to corporate finance and government-relations risk and could prompt legal review of the decision and next steps.,2,76
+a0127,8,True,"Confirmation that Applied Materials was denied CHIPS funding has legal and regulatory implications for project structuring, compliance and potential challenge or alternative funding strategies.",2,76
+a0128,8,True,"Bloomberg-backed reports of a rejected CHIPS grant are legally relevant for issues around government subsidies, contractual commitments and regulatory exposure.",3,78
+a0129,4,True,Ardian increasing secondaries dealmaking is general business news relevant to transaction and fund-formation lawyers but does not indicate litigation or regulatory action.,0,36
+a0130,0,False,"Article is about GCC sovereign funds broadly and not specifically about Ardian, so limited legal relevance.",0,0
+a0131,0,False,This piece focuses on Telecom Italia disposals and does not concern Ardian.,0,0
+a0132,0,False,Acquisition news about SD Worx/F2A is unrelated to Ardian and poses no direct legal interest.,0,0
+a0133,4,True,Profile of Ardian's debt MD provides business and strategy insight that could inform transactional or ESG-related legal work.,0,36
+a0134,0,False,PAI Partners' investment in Nutripure does not involve Ardian and has minimal legal relevance to the firm.,0,0
+a0135,7,True,"Mentions Ardian exiting an HR software business—a sale/exit that could have transaction, regulatory or contractual implications for counsel.",0,63
+a0136,10,True,"FDA approval of Durvalumab for a new cancer indication is a major regulatory and commercial development with licensing, liability and market-access implications.",0,90
+a0137,2,True,Corporate piece on generative AI in R&D is largely promotional and technical with no immediate legal or regulatory issue.,0,18
+a0138,4,True,Interview reflecting product lifecycle and indications for Lynparza may have commercial and compliance relevance but no direct legal action.,0,36
+a0139,2,True,Participation in a White House climate resilience initiative is a CSR/partnership announcement with limited immediate legal implications.,0,18
+a0140,7,True,"Phase III positive data has regulatory and approval implications, affecting filings, labeling and potential patent/licensing or liability issues.",0,63
+a0141,7,True,"A high-profile former prime minister joining the board raises governance, regulatory scrutiny and potential conflicts of interest or political risk considerations.",0,63
+a0142,7,True,"Worsening finances and restructuring efforts create legal risks around debt covenants, creditor negotiations and potential insolvency procedures.",0,63
+a0143,7,True,"A large reported loss and heavy debt heighten solvency concerns and may trigger contract, Olympic partnership and creditor-related legal issues.",2,67
+a0144,8,True,"Publication of H1 results and successful funding of the financial restructuring plan is directly relevant to creditor agreements, regulatory filings and restructuring-related legal obligations.",0,72
+a0145,7,True,Large reported loss and ongoing developments suggest significant restructuring and creditor/contract risk lawyers should monitor.,0,63
+a0146,8,True,"Heavy losses and formal restructuring raise potential insolvency, contract and regulatory issues, especially given Olympic partner status.",2,76
+a0147,7,True,"Major financial loss and restructuring news that could trigger contractual, creditor and compliance consequences.",2,67
+a0148,2,True,Routine earnings call announcement with limited direct legal implications beyond typical disclosure/compliance considerations.,0,18
+a0149,0,True,Promotional discount codes are marketing news with no apparent legal relevance.,0,0
+a0150,1,True,"A routine product update for Autodesk's 3ds Max with no obvious legal, regulatory or transactional implications.",0,9
+a0151,1,True,How-to content for Autodesk Fusion that is operational/product guidance rather than legally significant news.,0,9
+a0152,1,True,"Product feature explanation about Inventor BOMs, which is business/technical information without immediate legal relevance.",0,9
+a0153,6,True,"An earnings call transcript is a material financial disclosure that could matter for securities, compliance or disclosure risk assessment.",0,54
+a0154,5,True,"Industry-level reporting on private equity exits that could signal market timing, portfolio sales and potential transactional or regulatory issues for PE firms.",0,45
+a0155,0,False,Routine market/valuation commentary about GFL with no direct legal or client link to BC Partners.,0,0
+a0156,0,False,Insider securities sale filing by GFL CEO—regulatory disclosure of potential relevance but routine.,0,0
+a0157,0,False,CEO appointment and change of ownership at Dümmen Orange could have governance and transaction implications if linked to BC Partners.,0,0
+a0158,0,False,General political commentary on UK/France elections with no connection to the firm or its clients.,0,0
+a0159,7,True,Bain Capital signs a large lease renewal/expansion—significant commercial real estate transaction and contract for the firm to monitor.,0,63
+a0160,9,True,"Article details a distressed administration and lenders trying to sell Rex’s assets to Bain Capital, raising takeover, insolvency and transactional legal issues.",0,81
+a0161,6,True,Announcement of a Bain Capital JV acquiring $43M of industrial property involves real estate transaction and potential contract/closing issues.,0,54
+a0162,4,True,Firm commentary about being ‘wide open for business’ signals deal activity and potential regulatory/transactional work but is general PR.,0,36
+a0163,2,True,Report of institutional selling of shares in Bain Capital Specialty Finance is routine market activity with limited legal implications.,0,18
+a0164,0,False,Piece concerns Edgar Bronfman Jr. and Paramount and does not relate to Bain Capital.,0,0
+a0165,6,True,Growth capital investment by Bain Capital Insurance is a material transaction with commercial and contractual implications for counsel to review.,0,54
+a0166,4,True,A funding roundup that may mention Balderton-backed deals but contains general market coverage rather than a single actionable transaction.,0,36
+a0167,6,True,"Series B financing for Checkly is a material investment event that could involve term sheet, securities and investor rights issues for Balderton.",1,56
+a0168,0,False,"Article labels Checkly as Accel-backed and appears focused on Accel’s role, so it’s not specifically about Balderton.",0,0
+a0169,6,True,Report of a $20M Series B for Checkly is a notable financing event potentially involving Balderton with associated transactional and compliance considerations.,0,54
+a0170,6,True,"Series B investment by Balderton Capital is a material financing event with potential deal, investor rights and compliance implications for counsel to monitor.",1,56
+a0171,6,True,"A $20M Series B funding is a significant corporate financing event that may raise issues around securities, governance and investor agreements.",1,56
+a0172,6,True,The €18.4M Series B (same funding) is a notable financing/transactional development relevant for corporate and regulatory review.,1,56
+a0173,6,True,"Sharp secondary-market markdowns in Postman shares are a material financial development that could affect investor disputes, valuations and future financing terms.",0,54
+a0174,6,True,"Significant discounts in Postman secondary deals are an important financial event with potential implications for cap table, investor relations and transactional planning.",0,54
+a0175,0,False,"Article covers Chainguard and Cowbell Cyber funding rounds, not Battery Ventures, so minimal legal relevance to the firm.",0,0
+a0176,0,False,General list of unicorns with no specific legal or regulatory implications for Battery Ventures.,0,0
+a0177,4,True,"Coverage of ZeroTier’s Series A led by Battery Ventures is business development news that could trigger investment, contract and due-diligence considerations.",1,38
+a0178,4,True,"Duplicate reporting that ZeroTier’s Series A was led by Battery Ventures — relevant for investment, portfolio and compliance monitoring.",1,38
+a0179,0,False,Industry funding forecast for Indian SaaS is general market news with potential strategic or regulatory implications but not specifically about Bessemer.,0,0
+a0180,4,True,A Bessemer report on India SaaS and AI trends could inform investment strategy and diligence but presents no immediate legal action.,0,36
+a0181,4,True,Coverage of Bessemer's India SaaS/AI report is general market news relevant for deal teams but not a legal event.,0,36
+a0182,7,True,A partner appointment in Bessemer's Silicon Valley office is a material leadership change that may affect deal authority and conflicts.,0,63
+a0183,7,True,"Announcement of Lauri Moore joining as partner is a significant personnel change relevant to governance, conflicts and deal relationships.",0,63
+a0184,6,True,Internal promotion to vice president is a leadership/personnel update that could affect responsibilities and potential conflict checks.,0,54
+a0185,1,True,Routine institutional stake reduction with no apparent legal or regulatory implications.,0,9
+a0186,8,True,"Report alleges rent hikes far above market and notes local leaders considering crackdowns on private equity, indicating potential regulatory and enforcement risk.",0,72
+a0187,1,True,Analyst price-target and rating updates are routine market coverage without direct legal significance.,0,9
+a0188,9,True,Reports that Blackstone is in early talks to acquire a company indicate potential M&A activity with material legal and regulatory implications.,0,81
+a0189,10,True,Court action approving a $1.6B Blackstone deal and cancellation of Hipgnosis shares is a concrete transaction with clear legal and regulatory consequences.,0,90
+a0190,0,False,"Article discusses European property fund disposals (Amundi) and does not appear to concern Blackstone specifically, so minimal legal relevance to the firm.",0,0
+a0191,1,True,Purely a stock-price 52-week high report with no apparent legal or regulatory implications.,1,11
+a0192,6,True,Share buyback and cancellation is a significant corporate action affecting capital structure and securities/regulatory filings.,0,54
+a0193,1,True,"Another report of a 52-week high for the share price, a routine market update without legal issues.",1,11
+a0194,4,True,Disclosure of total voting rights is a routine regulatory/compliance filing with relevance to governance and shareholder matters.,0,36
+a0195,2,True,Announcement of provincial funding increase for Bridgepoint is routine government support rather than a legal or regulatory event.,0,18
+a0196,0,False,Story concerns takeover interest in Alpha FMC and does not pertain to Bridgepoint.,0,0
+a0197,2,True,"Market sell-off mentions Broadcom share declines but contains no legal, regulatory, or transactional developments.",0,18
+a0198,1,True,Investor-oriented bullish stock feature with no legal or regulatory implications for Broadcom.,0,9
+a0199,1,True,"Opinion piece recommending Broadcom for investors, not reporting on legal or corporate-action matters.",0,9
+a0200,4,True,Reports a notable share-price move in Broadcom tied to industry earnings—useful for market/legal monitoring but not a legal event.,0,36
+a0201,4,True,"Covers Broadcom stock movement after peer earnings, relevant to market/financial monitoring but not a regulatory or legal development.",0,36
+a0202,1,True,Corporate philanthropy/CSR item about scholarships—low legal relevance and routine PR news.,0,9
+a0203,9,True,"Describes commercial and customer-impact fallout from Broadcom's VMware takeover, which is directly relevant to M&A integration, customer contracts and potential regulatory/compliance issues.",0,81
+a0204,2,True,Analyst initiation/price-target news for Brookfield is routine financial coverage with minimal immediate legal relevance.,0,18
+a0205,9,True,"Reports Brookfield is buying nVent’s thermal management unit — a significant M&A transaction with deal, diligence and regulatory considerations.",0,81
+a0206,4,True,General analysis of Brookfield’s strategy and asset exposure that could inform investment- and compliance-related risk assessments.,0,36
+a0207,10,True,"Bloomberg reports a $1.7B cash acquisition of nVent’s cable/heating unit — a major transaction with direct legal, regulatory and transactional implications.",0,90
+a0208,1,True,Earnings release timing is routine corporate news with no immediate legal significance.,0,9
+a0209,1,True,Stock hitting a 52‑week high is market movement without direct legal or regulatory implications.,0,9
+a0210,0,False,"Article discusses computer-generated imagery in a movie, not the company CGI Inc.",0,0
+a0211,10,True,"Timken's acquisition of CGI Inc. is a major M&A event with significant legal, regulatory and integration implications.",0,90
+a0212,6,True,Coverage of the CEO receiving a lifetime achievement award is a reputational/leadership item lawyers may note for stakeholder and governance interest.,0,54
+a0213,7,True,CGI's announcement of quarterly earnings and initiation of a regular dividend is a material financial event affecting investors and disclosure obligations.,1,65
+a0214,8,True,"Quarterly results, initiation of a dividend and a U.S. subsidiary's acquisition of Aeyon raise financial, M&A and integration/compliance considerations.",1,74
+a0215,9,True,"Acquisition of Aeyon (725 employees) is a material M&A event with integration, contracting and regulatory implications for CGI Federal.",0,81
+a0216,0,False,Article describes NASA's Roman Coronagraph Instrument and is unrelated to the CGI company.,0,0
+a0217,0,False,Entertainment piece about Game of Thrones/House of the Dragon unrelated to Canon the company.,0,0
+a0218,4,True,"Product review of Canon's Eye‑control AF is commercial/product news that could affect marketing, IP and competitive positioning.",0,36
+a0219,0,False,Opinion piece on the literary canon with no connection to Canon the company.,0,0
+a0220,7,True,"Consolidation and a subsidiary merger may raise regulatory, contractual and employment-law issues requiring legal review.",0,63
+a0221,1,True,Product review of a consumer camera with no apparent legal or regulatory implications.,0,9
+a0222,2,True,Product-rumor/speculation about a future camera release that has little immediate legal relevance.,0,18
+a0223,1,True,Comparative product review focused on technical performance rather than legal matters.,0,9
+a0224,1,True,Opinion/consumer piece about upgrading decisions with no clear legal angle.,0,9
+a0225,1,True,PR coverage of Canon's on-site service at the Olympics is routine marketing with no immediate legal implications.,0,9
+a0226,2,True,Product rumor/speculation about a new Canon camera has little legal relevance beyond potential IP/marketing considerations.,0,18
+a0227,8,True,"Announcement of a multi‑year defence contract implicates procurement, compliance, export controls and regulatory risk for Capgemini.",0,72
+a0228,5,True,"Capgemini/AWS generative AI initiative raises legal issues around data privacy, IP, and regulatory compliance that counsel should review.",0,45
+a0229,3,True,Thought leadership on a 100% renewable transition is general business/ESG content with possible regulatory and contract implications.,0,27
+a0230,6,True,"Expansion of a strategic partnership with SAP involves commercial contracts, IP, data protection and regulatory/compliance considerations lawyers would monitor.",0,54
+a0231,1,True,PR/CSR piece about a leadership development programme with no apparent legal or regulatory implications.,0,9
+a0232,4,True,Analyst price-target and margin outlook is financial market news that may have indirect securities or M&A relevance but no immediate legal action.,0,36
+a0233,4,True,"Earnings preview could affect disclosure obligations, securities risk and potential material event monitoring for in-house counsel.",0,36
+a0234,3,True,"Investor-opinion/analysis noting downside risk may influence market perception and potential securities litigation risk, but is primarily financial commentary.",0,27
+a0235,4,True,Routine earnings preview—relevant to disclosure and market-movement monitoring but not a legal action.,0,36
+a0236,1,True,Product/diagnostic software update for equipment—operational news with minimal direct legal implications.,0,9
+a0237,0,False,"Article concerns an insect (caterpillar sting), not the company Caterpillar Inc.",0,0
+a0238,5,True,Significant institutional stake reduction in Celestica that may trigger investor relations or disclosure considerations.,0,45
+a0239,3,True,Analyst upgrade and earnings discussion—useful for investor sentiment and communications but not a legal event.,0,27
+a0240,4,True,General earnings and market-movement story with a potential regulatory angle (US restrictions on China) that could affect compliance and supply-chain risk.,0,36
+a0241,1,True,Simply a stock composite rating update with no legal or regulatory implications.,0,9
+a0242,3,True,Investor stake change that may involve securities filings and monitoring for ownership shifts.,0,27
+a0243,2,True,General investor-focused analysis of the stock with no obvious legal or regulatory issues.,0,18
+a0244,0,False,Obituary for an individual (name overlap); not related to the Chubb insurance company’s business or legal matters.,0,0
+a0245,0,False,"Article is about NFL player Nick Chubb’s injury, not the insurance company Chubb.",0,0
+a0246,0,False,"Coverage concerns Browns roster and player activation, not the Chubb insurance company.",0,0
+a0247,0,False,"Sports injury/recovery update for Nick Chubb, unrelated to the insurer.",0,0
+a0248,0,False,"Player timeline for return to practice — pertains to the athlete Nick Chubb, not the company.",0,0
+a0249,3,True,"Consumer review of Chubb’s insurance products could be relevant to reputation, pricing strategy and customer complaints.",0,27
+a0250,0,False,"Article is sports coverage about NFL player Nick Chubb, not the insurance company Chubb.",0,0
+a0251,0,False,Sports commentary about Bradley Chubb/John Elway with no connection to the insurance firm Chubb.,0,0
+a0252,7,True,Cinven’s strategic shift to ramp up mid‑market investing could drive increased deal activity and require legal support.,0,63
+a0253,6,True,Roundup of major European transactions likely includes Cinven‑related deals and is relevant to deal teams and regulatory counsel.,0,54
+a0254,9,True,Report that Cinven is among bidders circling Forgital signals a potential acquisition process with significant legal and M&A implications.,0,81
+a0255,6,True,"Product distribution change could affect channel contracts and vendor relationships, raising commercial and compliance considerations.",0,54
+a0256,0,False,Profile of athlete Andre Cisco unrelated to Cisco Systems the company.,0,0
+a0257,7,True,"Earnings and revenue forecasts can trigger securities disclosure, investor relations and potential regulatory scrutiny.",0,63
+a0258,0,False,Local restaurant named Cisco's receiving a grant is unrelated to the Cisco Systems corporation.,0,0
+a0259,4,True,Cisco-led workforce research is general industry/PR news with potential long-term workforce and compliance implications but no immediate legal action.,0,36
+a0260,1,True,"CSR program announcement with no apparent legal, regulatory, or transaction implications.",0,9
+a0261,5,True,"Industry report on OT/security priorities that may affect compliance, risk management, and procurement decisions.",0,45
+a0262,8,True,"Report of a potential sale/ownership change for American Greetings implicates M&A, due diligence and deal counsel work.",0,72
+a0263,10,True,"Definitive take-private acquisition of R1 RCM in a large $8.9B deal involves significant M&A, regulatory and transaction matters.",0,90
+a0264,10,True,WSJ report confirming the cash buyout terms for R1 RCM’s take-private deal presents material M&A and regulatory implications.,0,90
+a0265,6,True,"Options activity signals market betting on TowerBrook/CD&R involvement in an R1 RCM deal, relevant for M&A and disclosure/compliance risk.",0,54
+a0266,10,True,"Announced $8.9B acquisition of R1 RCM by TowerBrook and CD&R—major M&A with regulatory, antitrust and transaction law implications.",0,90
+a0267,0,False,General industry piece on restructuring trends that may mention players but is not specifically about Clearlake.,0,0
+a0268,0,False,Market/industry forecast unrelated to Clearlake and with no substantive legal angle.,0,0
+a0269,0,False,Sports/PR incident unrelated to Clearlake; no legal relevance to the firm’s client.,0,0
+a0270,1,True,Promotional marketing at SM Foodcourt — no legal or regulatory implications for the firm’s lawyers.,0,9
+a0271,10,True,Major tax court ruling requires Coca‑Cola to pay $6 billion in back taxes and interest — significant legal and tax exposure.,2,94
+a0272,10,True,Same $6 billion IRS tax dispute and appeal — material legal/tax development.,2,94
+a0273,0,False,"Passing cultural reference to Coca‑Cola in a concert review, not about the company.",0,0
+a0274,10,True,Coca‑Cola to pay $6 billion while appealing a federal tax court decision — major legal and financial event.,2,94
+a0275,10,True,Tax Court ruling that Coca‑Cola owes billions to the IRS is a major tax dispute with significant legal and financial implications.,0,90
+a0276,10,True,US Tax Court determination in a large transfer‑pricing dispute could result in multibillion‑dollar tax liability and precedent for cross‑border tax issues.,0,90
+a0277,4,True,Olympic sponsor pressure over single‑use plastics raises reputational and potential regulatory/environmental compliance issues.,0,36
+a0278,3,True,Partnership to scale generative‑AI marketing is business/technology news with limited immediate legal impact beyond IP and data considerations.,0,27
+a0279,6,True,"Large expansion and job creation in Hyderabad involves significant contracts, incentives and employment law considerations for Cognizant.",0,54
+a0280,4,True,Quarterly results and slight revenue beat are routine financial news with limited direct legal implications.,1,38
+a0281,4,True,Earnings call transcript provides management commentary and forward guidance but is standard investor communications rather than a legal event.,1,38
+a0282,6,True,Company raised full-year revenue forecast and beat estimates—a material financial update that could affect disclosure obligations and investor relations.,0,54
+a0283,4,True,Press release of quarterly results is routine corporate disclosure without immediate legal action or regulatory implications.,0,36
+a0284,1,True,Analyst/website upgrade is routine market coverage with no apparent legal or regulatory significance.,0,9
+a0285,6,True,Quarterly earnings are a material financial disclosure that implicates securities reporting and disclosure obligations.,0,54
+a0286,3,True,"Product launch is routine commercial news but could raise IP, contract or regulatory considerations.",1,29
+a0287,3,True,General product availability announcement with limited immediate legal implications beyond commercial/IP issues.,1,29
+a0288,6,True,Senior hire signals leadership change and expansion that may involve employment contracts and strategic legal considerations.,0,54
+a0289,6,True,"Share buy-back activity is a securities action that raises disclosure, compliance and potential insider-trading issues.",0,54
+a0290,3,True,Analyst and fund-manager roundup mentions Computacenter but is general market commentary rather than a legal or regulatory development.,0,27
+a0291,6,True,Disclosure of an insider sale (Ros Rivaz) is a compliance/insider-trading matter lawyers will monitor.,1,56
+a0292,6,True,Same insider-sale disclosure as above; relevant for regulatory and disclosure compliance.,1,56
+a0293,7,True,Announcement that Computacenter executed a share buyback is a significant corporate action with regulatory and governance implications.,0,63
+a0294,6,True,Director/PDMR shareholding notification for Computershare is a regulatory insider-disclosure matter lawyers will review.,0,54
+a0295,0,False,"Article is a routine dividend announcement for Capital One, not about Computershare.",0,0
+a0296,0,False,"Notice of a reverse stock split for Siyata, unrelated to Computershare and a routine corporate action.",0,0
+a0297,0,False,"Quarterly results for Rithm Capital are financial reporting for another company, not Computershare.",0,0
+a0298,4,True,"ConocoPhillips' rising production volumes could have regulatory, environmental and permitting implications for counsel to monitor.",0,36
+a0299,9,True,"Reports record production and confirms a $22.5B Marathon deal is on track, a major transaction with likely antitrust and regulatory/legal implications.",0,81
+a0300,4,True,Quarterly earnings and shareholder return announcement is business news that may affect investor relations and securities considerations but no immediate legal action.,0,36
+a0301,4,True,Earnings snapshot reporting Q2 results is general financial news relevant to investors and compliance teams but not indicating litigation or regulatory action.,0,36
+a0302,2,True,Analyst/market commentary about stock performance is routine investor-focused coverage with no direct legal implications.,0,18
+a0303,9,True,Shareholder-alert/class action lead plaintiff notice signals active or potential securities litigation against DXC.,0,81
+a0304,9,True,Investor-alert from a law firm seeking lead plaintiffs indicates an ongoing or imminent securities class action targeting DXC.,0,81
+a0305,10,True,"Article reports an active lawsuit against DXC tied to its transformation claims and associated stock impact, creating clear legal and securities exposure.",0,90
+a0306,9,True,"Notice from a plaintiff firm about a securities class-action against DXC, indicating shareholder litigation risk.",0,81
+a0307,9,True,Shareholder-alert over an alleged misleading of investors signals pending or potential securities litigation against DXC.,0,81
+a0308,7,True,"Deutsche Bank’s plan to offload $1B of CRE loans is a significant financial move with potential credit, regulatory and counterparty implications.",0,63
+a0309,7,True,Coverage of Deutsche Bank’s $1B U.S. CRE loan sale plans highlights material balance-sheet and market-risk developments lawyers would monitor.,1,65
+a0310,8,True,Offloading up to $1bn of US commercial loans signals material credit/exposure management and potential regulatory or balance-sheet risk lawyers will want to monitor.,1,74
+a0311,5,True,"A $69.4m construction loan is a significant financing transaction with contractual, real-estate and credit documentation implications.",0,45
+a0312,6,True,"A €500m EIB guarantee to Deutsche Bank to support wind power is a major public-guarantee financing with regulatory, compliance and project-finance considerations.",0,54
+a0313,3,True,"Announcement of a sustainability-linked payables program is routine commercial activity, relevant mainly for contract and ESG advisory teams.",0,27
+a0314,4,True,Engie raising guidance for renewables/batteries is material business performance news with limited legal implications beyond transactional and regulatory monitoring.,0,36
+a0315,7,True,"Raised guidance and investor reaction may trigger securities, disclosure and investor-relations legal issues.",0,63
+a0316,7,True,"Post-acquisition performance and upgraded outlook could have regulatory, disclosure and integration/compliance implications.",0,63
+a0317,7,True,Swing to net profit and raised full-year outlook are material financial developments relevant for disclosure and investor relations.,0,63
+a0318,7,True,Upgraded profit forecast based on power generation performance is a material financial disclosure with potential regulatory and market effects.,0,63
+a0319,5,True,Weekly share repurchase disclosure is a routine but legally relevant update on buybacks and compliance with securities rules.,0,45
+a0320,0,False,No substantive content — not actually about the company or any corporate action.,0,0
+a0321,7,True,"MoU between Eni and SOCAR could lead to contracts, joint ventures and regulatory/compliance issues in Azerbaijan.",0,63
+a0322,7,True,Announcement of planned E&P and energy-security collaboration with SOCAR signals potential deals and regulatory/permitting considerations.,0,63
+a0323,6,True,"Share buyback is a corporate action with disclosure, securities-law and governance implications.",0,54
+a0324,1,True,Purely a technical stock-price movement update with no apparent legal or regulatory consequence.,0,9
+a0325,0,False,"Article concerns pundit Eni Aluko (a person), not energy company Eni, and covers a criminal allegation against Joey Barton rather than corporate matters.",0,0
+a0326,0,False,"Court plea by Joey Barton relates to alleged malicious communications involving pundit Eni Aluko (the person), not the company Eni.",0,0
+a0327,0,False,"Local court coverage of Joey Barton’s not-guilty plea over social media posts about pundit Eni Aluko (person), not the energy company.",1,2
+a0328,0,False,"Tabloid report on Barton’s alleged abusive posts directed at pundit Eni Aluko (individual), not about the corporate client Eni.",1,2
+a0329,6,True,"Ericsson announced a commercial infrastructure upgrade with UScellular, a significant contract/partnership with potential commercial, regulatory and procurement implications.",0,54
+a0330,4,True,General industry/technology commentary about Ericsson’s strategy for 5G and AI-powered networks that could inform commercial and product positioning but has limited immediate legal implications.,0,36
+a0331,7,True,Reports of a vendor shake-up at MásOrange that could lead to new contracts or competitive shifts affecting Ericsson’s commercial opportunities and contractual/regulatory exposure.,0,63
+a0332,5,True,Brief industry roundup including a reported MásOrange move toward Ericsson/Open RAN that signals market momentum but lacks detailed legal or transactional content.,0,45
+a0333,7,True,"Specific report that MásOrange is dropping Huawei and ZTE in favor of Ericsson’s Open RAN, a development with clear commercial, supply-chain and potential regulatory/competition implications.",0,63
+a0334,1,True,A routine partner award/marketing announcement about Cradlepoint (part of Ericsson) with no apparent legal or regulatory significance.,0,9
+a0335,7,True,"A significant minority investment in Farfetch could raise regulatory, contractual and strategic considerations for the firm and its portfolio agreements.",0,63
+a0336,9,True,"Eurazeo's €350m acquisition of an asset-management boutique is a major M&A transaction with possible regulatory, fiduciary and integration implications.",0,81
+a0337,9,True,"Completion of the €350m Eres acquisition is a material deal that may trigger regulatory filings, competition review and transactional legal work.",1,83
+a0338,9,True,"Finalising the Eres Group takeover is a substantive corporate transaction likely to involve employment, benefit-plan and regulatory compliance issues.",2,85
+a0339,9,True,"Public confirmation of the Eres acquisition signals a completed strategic purchase that carries legal, regulatory and integration considerations.",1,83
+a0340,9,True,"Potential sale of a $1B+ portfolio company is a major M&A event that raises transactional, regulatory and due-diligence issues lawyers would handle.",0,81
+a0341,1,True,"Product review of a camera with no apparent legal, regulatory, or transactional implications.",0,9
+a0342,1,True,"Camera review aimed at photographers, not involving legal or compliance matters.",0,9
+a0343,1,True,Technical product review with no obvious legal or regulatory angle.,0,9
+a0344,1,True,"Consumer product review of an Instax model, not related to legal risk or transactions.",0,9
+a0345,1,True,Consumer product review/personal impression with no apparent legal or regulatory issues for the firm to act on.,0,9
+a0346,2,True,Product review of an Instax camera — routine consumer coverage with minimal legal relevance beyond marketing/IP monitoring.,0,18
+a0347,2,True,Rumour roundup about upcoming Fujifilm cameras — commercial/competitive interest but no immediate legal implications.,0,18
+a0348,0,False,"Meta's apology to Malaysia over content removal involves government relations and potential regulatory/policy scrutiny relevant to legal teams (company is Meta, not Facebook as named).",0,0
+a0349,0,False,"Report of malvertising using Facebook ads raises cybercrime, platform liability and advertising-policy risks implicating Meta (company is Meta, not Facebook as named).",0,0
+a0350,0,False,"Article concerns a criminal case and individual Facebook post mention, not the company itself.",0,0
+a0351,5,True,"Local Facebook groups posting mugshots raises potential privacy, defamation and platform-moderation legal issues.",0,45
+a0352,8,True,"Malaysia's prime minister publicly criticizes Meta for removing a post, which could escalate into diplomatic or regulatory scrutiny of content moderation.",0,72
+a0353,7,True,"Meta's stronger-than-expected Q2 and planned AI investment increase are major corporate developments with regulatory, compliance and disclosure implications.",0,63
+a0354,7,True,High-profile allegations by a former president that Facebook and Google censored content may trigger regulatory attention and policy/legal challenges.,0,63
+a0355,10,True,Settlement of a $1.4B state lawsuit against Meta (Facebook/Instagram parent) is a major legal and regulatory development for the company.,0,90
+a0356,10,True,A $1.4B settlement in a Texas biometric-data lawsuit over Facebook images is a significant legal resolution with privacy and compliance implications.,0,90
+a0357,2,True,Profile piece about Peter Thiel's naming habits and influence is general interest about people connected to Founders Fund but has no direct legal angle.,0,18
+a0358,0,False,Local charity gala coverage is routine community news and not about Founders Fund.,0,0
+a0359,0,False,"Profile of a seed investor and political initiative is business/political reporting with only a potential indirect legal angle, not specifically about Founders Fund.",0,0
+a0360,0,False,General curated opportunities for entrepreneurs; not about Founders Fund and no legal/regulatory angle.,0,0
+a0361,0,False,Startup fundraising news that does not mention Founders Fund and presents no immediate legal issues.,0,0
+a0362,0,False,"Personal engagement announcement about an individual entrepreneur, unrelated to Founders Fund or legal matters.",0,0
+a0363,0,False,"Coverage of tech elites’ media strategies could have reputational or regulatory implications for investors, but isn’t specifically about Founders Fund.",0,0
+a0364,0,False,Industry market report about superconductors and Fujikura Ltd.; not related to Founders Fund and no direct legal relevance.,0,0
+a0365,0,False,"Pure market forecast for fuel cells with no litigation, regulatory, or transaction details relevant to lawyers.",0,0
+a0366,0,False,"General market analysis of optical waveguides without legal, regulatory, or corporate actions involving Fujikura.",0,0
+a0367,0,False,"Industry growth projection for flexible PCBs, which is commercial intelligence but contains no legal or compliance developments.",0,0
+a0368,0,False,"Market trends report on magnet wire that does not report lawsuits, investigations, or regulatory risks for the company.",0,0
+a0369,0,False,"Strategic industry report announcement (heat pipes) offering market data but no legal, regulatory, or transactional information.",0,0
+a0370,0,False,General market report on retail banking IT spending with no specific legal or regulatory implications for Fujitsu.,0,0
+a0371,8,True,"Related to the Horizon/Post Office scandal and a former Fujitsu executive's statements, which bear on litigation, inquiries and reputational risk.",0,72
+a0372,0,False,Startup fundraising news that does not directly involve GGV Capital or present an immediate legal angle.,0,0
+a0373,0,False,Routine report of institutional stock holdings with no apparent legal or regulatory issue for GGV Capital.,0,0
+a0374,0,False,Small fundraising round for a startup in Southeast Asia without a clear legal or regulatory connection to GGV Capital.,1,2
+a0375,0,False,Event speaker announcements have no apparent legal or regulatory implications for GGV Capital.,0,0
+a0376,0,False,A small Pre‑Series A funding and regional expansion of Beep is routine startup news and not about GGV Capital.,1,2
+a0377,0,False,An institutional investor increasing a stake in HashiCorp is market activity without direct legal relevance to GGV Capital.,0,0
+a0378,0,False,A market research report summary is generic industry coverage and not specifically about GGV Capital.,0,0
+a0379,7,True,"A >$200M Series C investment by General Atlantic is a major financing with significant deal, regulatory and diligence implications lawyers will want to review.",3,69
+a0380,7,True,Significant Series C investment by General Atlantic creating material financial exposure and potential regulatory/privacy and reputational issues for the firm to monitor.,1,65
+a0381,7,True,Major >$200M Series C from General Atlantic and unicorn status present material transactional and compliance considerations for counsel.,2,67
+a0382,7,True,"Coverage of Flo Health's unicorn valuation tied to General Atlantic's investment signals notable deal activity with potential legal and regulatory angles (data/privacy, healthcare regulation).",1,65
+a0383,7,True,"PR announcing General Atlantic's >$200M investment is material deal news with attendant diligence, regulatory and reputational implications for lawyers to note.",3,69
+a0384,7,True,"FT coverage of Flo's $1bn valuation and General Atlantic backing is high-profile financing news with likely legal, regulatory and market-impact considerations.",0,63
+a0385,6,True,"Large PE investment into a health-data app raises potential regulatory, privacy and investor-rights issues lawyers will want to review.",0,54
+a0386,5,True,"Significant early valuation for an AI-safety startup may trigger diligence on IP, founder agreements and emerging AI regulatory risks.",0,45
+a0387,7,True,"A $150M financing for a major loyalty platform could involve material commercial, payment-processing and regulatory considerations.",0,63
+a0388,7,True,"Ontario Teachers’ large backing and the company’s $3.25B valuation implicate commercial, regulatory and potential M&A or governance issues.",0,63
+a0389,6,True,"A $50M raise for a healthcare AI company raises legal questions around HIPAA/privacy, regulatory compliance and clinical liability.",0,54
+a0390,0,False,"Article is about STAN's appointment and not about General Catalyst, with no apparent legal angle for the firm.",0,0
+a0391,0,False,Coverage of a seed funding round for Powder does not involve General Catalyst and presents no immediate legal issue.,0,0
+a0392,6,True,"GM's new employee ratings and bonus scheme could create labor relations, employment law and retention risks lawyers should monitor.",0,54
+a0393,1,True,A historical/technical piece on GM's LS V8 engines is general interest content with no clear legal implications.,0,9
+a0394,10,True,"A law firm has announced an investigation into investor claims against GM, indicating potential securities litigation or regulatory exposure.",0,90
+a0395,6,True,"Changes to performance ratings and bonus plans create employment law, compensation and severance risks lawyers should review.",0,54
+a0396,4,True,"The sustainability report raises disclosure, regulatory and ESG compliance issues that legal teams may need to assess.",0,36
+a0397,3,True,Strategic comments on EV investments are general business news with limited immediate legal implications.,0,27
+a0398,0,False,"This is a consumer review of travel insurance products, not substantive news about the company.",0,0
+a0399,0,False,Article discusses a local insurer sale and its consumer effects rather than matters specifically involving Generali Group.,0,0
+a0400,0,False,General industry flow/mandate trends mention private equity but do not pertain to Genstar specifically.,0,0
+a0401,9,True,"Genstar is a buyer in a $412M TAMP acquisition, a significant M&A transaction with attendant deal and regulatory considerations.",0,81
+a0402,9,True,"This reports Genstar’s equity investment in AffiniPay, a transaction involving major law firms and material transactional/legal work.",0,81
+a0403,0,False,Fundraising news about Knox Lane is sector-relevant but unrelated to Genstar.,0,0
+a0404,0,False,An M&A in the GRC sector that may be of market interest but does not involve Genstar.,0,0
+a0405,3,True,Mentions Goldman Sachs analysts' stock view which is market/analyst commentary of interest to financial but limited legal relevance.,0,27
+a0406,3,True,Reports Goldman Sachs' earnings expectations for ASX stocks — relevant as market/analyst commentary but not a legal/regulatory matter.,0,27
+a0407,3,True,Quotes Goldman Sachs analysts on macro outlook and rate-cut forecasts — general market news with minimal direct legal implications.,0,27
+a0408,3,True,Covers Goldman Sachs economists' revised recession probability — economic research useful for clients but not a legal development.,1,29
+a0409,3,True,Bloomberg report on Goldman economists raising US recession risk — material market analysis but no immediate legal or regulatory action.,1,29
+a0410,7,True,"Disposition of 82 San Francisco properties implicates asset transfers, lease and management liabilities and potential tenant/contract disputes requiring legal review.",0,63
+a0411,7,True,"A $440M strategic investment is a significant financing transaction that raises issues of deal structure, diligence and regulatory compliance.",0,63
+a0412,1,True,Corporate ‘Our Businesses’ marketing page is background material with no actionable legal development.,0,9
+a0413,5,True,Public statements by the CEO on bitcoin may affect Goldman Sachs’ crypto strategy and regulatory exposure and warrant monitoring.,0,45
+a0414,0,False,Article is a general list of legal contract management startups and does not meaningfully concern Greenspring Associates.,0,0
+a0415,0,False,"Article is about a startup funding/product launch, not Greylock, and has no clear legal or regulatory angle.",0,0
+a0416,0,False,Coverage of pressure to replace FTC Chair Lina Khan could presage significant changes in antitrust enforcement that lawyers should monitor.,0,0
+a0417,0,False,A practical SOC metrics piece for security teams with no direct legal or Greylock connection.,0,0
+a0418,0,False,Reporting on political divisions in Silicon Valley may affect clients' political risk and donor relationships but is general business/political news.,0,0
+a0419,0,False,Stock-picking/investment commentary about HCL Tech is routine market news with minimal legal relevance to Greylock.,0,0
+a0420,4,True,General market/business coverage of HCL with potential competitive and contract implications but no direct legal action reported.,0,36
+a0421,0,False,Political commentary unrelated to HCL Technologies.,0,0
+a0422,1,True,Retail promotion of HP printers — routine marketing with no apparent legal implications.,0,9
+a0423,0,False,"Article about automotive engine cam upgrades, not about HP Inc.",0,0
+a0424,7,True,"Reports of an OTA printer update disabling third‑party ink raise potential consumer liability, warranty and regulatory risks.",0,63
+a0425,1,True,"Consumer retail promotion for an HP Omen laptop—no legal, regulatory, or corporate-action significance.",0,9
+a0426,0,False,"Article discusses a 1973 Pontiac Grand Prix (horsepower), not Hewlett-Packard the company.",0,0
+a0427,1,True,Retail discount on the HP Envy 2-in-1—purely commercial/marketing content with no legal implications.,0,9
+a0428,2,True,Technical/marketing content on HP’s site about Intel CPUs—product information rather than legal or regulatory news.,0,18
+a0429,2,True,Editorial roundup of HP laptops (product/review coverage) with no immediate legal or regulatory relevance.,0,18
+a0430,0,True,Consumer coupon roundup for HP products — marketing/promotion with no legal or regulatory angle.,0,0
+a0431,0,False,"Article is about Honda restoring its HP‑X concept car, not about HP the company.",0,0
+a0432,0,False,"Feature on Honda’s 1984 HP‑X concept (automotive/design story), not related to HP the company.",0,0
+a0433,0,False,"Local business personnel move about RWA Wealth Partners, not involving Hellman & Friedman and no legal/regulatory issue.",0,0
+a0434,0,False,Law360 lawyer profile referencing large deals and sovereign-wealth fund activity but not focused on Hellman & Friedman or a direct legal action concerning them.,0,0
+a0435,0,False,"Article discusses Galvanize's sustainability-linked carry structure, not Hellman & Friedman, so minimal direct legal relevance to the firm.",0,0
+a0436,7,True,MultiPlan is a Hellman & Friedman portfolio company and a significant leadership and executive compensation change raises governance and transactional/legal considerations.,0,63
+a0437,0,False,Broad industry financing trends for mid‑tier accounting firms are general business news and not specifically about Hellman & Friedman.,0,0
+a0438,8,True,"Hellman & Friedman is directly involved in a €700m senior secured notes offering, a material financing with clear legal and regulatory implications.",0,72
+a0439,0,False,A routine stock outlook for Hewlett Packard Enterprise is market commentary and unrelated to Hellman & Friedman.,0,0
+a0440,3,True,An institutional investor increasing its HPE stake is routine market activity with limited immediate legal implications.,0,27
+a0441,10,True,"EU antitrust authority unconditionally approved HPE’s $14 billion acquisition of Juniper, a major merger/competition development lawyers will track.",1,92
+a0442,10,True,EU Commission’s unconditional approval of HPE’s $14bn takeover of Juniper is a significant regulatory clearance affecting merger implementation.,1,92
+a0443,4,True,A technical collaboration on quantum-HPC products is business development news with limited direct legal consequences.,0,36
+a0444,3,True,Report of Hon Hai’s record monthly sales is commercial performance news without an evident legal or regulatory angle.,0,27
+a0445,3,True,Quarterly sales growth is general business performance with minimal immediate legal implications.,0,27
+a0446,4,True,Profit widening at a Hon Hai subsidiary and market reaction could raise disclosure or financial reporting questions for counsel to monitor.,0,36
+a0447,3,True,"Product/EV rollout coverage is operational and commercial news that could later implicate IP, safety or regulatory issues.",0,27
+a0448,5,True,Q2 review and Q3 outlook for investors involve public disclosures and forward-looking statements that legal and compliance teams should review.,0,45
+a0449,6,True,"Capacity expansion in India involves cross-border regulatory, labor, tax and contract considerations that are relevant to firm lawyers.",0,54
+a0450,7,True,"Senior marketing role eliminated and department restructuring could trigger employment, contract or reputational issues requiring legal review.",0,63
+a0451,4,True,Record hybrid sales are business-positive but present only a general commercial update with limited immediate legal implications.,0,36
+a0452,1,True,Routine monthly sales report with no apparent legal or regulatory issues.,0,9
+a0453,7,True,"Major marketing leadership restructure reported by WSJ may have employment, vendor or compliance implications needing counsel.",1,65
+a0454,10,True,"NHTSA-flagged recall of over 49,000 vehicles for airbag deactivation/deployment is a significant safety, regulatory and potential liability matter.",0,90
+a0455,7,True,"Marketing leadership split is a material leadership change that can affect brand, agency contracts and advertising compliance risk.",1,65
+a0456,4,True,A joint police–Hyundai event on anti-theft software updates touches on product security and potential liability/consumer-safety issues.,0,36
+a0457,5,True,"Launch of a generative AI cybersecurity service has implications for client contracts, data/privacy compliance and vendor risk.",0,45
+a0458,9,True,"Coverage of IBM’s acquisition of HashiCorp is a significant M&A matter with possible antitrust, integration and compliance consequences.",0,81
+a0459,0,False,Article is about a Steve Jobs collectible auction and not about the IBM company itself.,0,0
+a0460,5,True,Discusses IBM's decision to refrain from selling facial recognition to police and broader regulatory/ethical risks relevant to compliance and government contracting.,0,45
+a0461,3,True,High-level corporate history and strategy piece with limited immediate legal implications for counsel.,0,27
+a0462,3,True,Product/technical announcement about IBM's internal AI training infrastructure with minimal direct legal risk apart from IP/contract considerations.,0,27
+a0463,6,True,"Local development/MOU for a former IBM site raises potential land-use, zoning and contract issues lawyers would monitor.",0,54
+a0464,4,True,"Company report on data breach costs is relevant to cybersecurity risk, regulatory exposure and incident response planning but is not an event-specific legal action.",0,36
+a0465,7,True,"Cybersecurity breach cost analysis has direct compliance, incident-response and potential regulatory/legal exposure implications for counsel.",0,63
+a0466,4,True,Strategic positioning of ING’s wholesale bank is general business news but may signal future regulatory or contractual priorities lawyers should monitor.,0,36
+a0467,7,True,"Public statements favoring targeted local M&A indicate likely deal activity and associated legal work (regulatory clearance, DD, integration).",0,63
+a0468,4,True,"Quarterly earnings and customer-growth commentary are routine financial updates but could affect disclosure, compliance and transactional planning.",0,36
+a0469,3,True,The Q2 press release is a standard corporate earnings communication with limited immediate legal implications beyond routine compliance and disclosure.,0,27
+a0470,0,False,Article is about Datadog raising funding and does not concern Iconiq Capital.,0,0
+a0471,0,False,Piece discusses Blue Owl stock performance and is not about Iconiq Capital.,0,0
+a0472,6,True,"Real-estate transaction coverage that lists ICONIQ Capital as a party—potentially relevant for transactional, financing or fiduciary issues.",0,54
+a0473,0,False,Funding news about Savvy Wealth that does not appear to involve Index Ventures.,0,0
+a0474,0,False,Feature on Savvy Wealth and its founder’s history; no clear connection to Index Ventures.,0,0
+a0475,4,True,"Coverage of a portfolio company’s fundraising and product launch that could implicate deal documentation, IP and investment-related diligence for the firm.",0,36
+a0476,4,True,"Report on a startup backed by Index Ventures raising seed funding and launching a product, relevant to investment, IP and contract matters.",0,36
+a0477,0,False,Takeover inquiry concerns Covariant and Amazon but does not appear to involve Index Ventures directly.,0,0
+a0478,6,True,"Large-scale layoffs at Infineon could trigger employment-law, compliance and regulatory issues requiring legal attention.",0,54
+a0479,3,True,"Earnings call transcript is routine corporate disclosure but may contain statements relevant to securities, compliance or litigation risk analysis.",0,27
+a0480,6,True,"Quarterly miss and CEO warning signal material financial and disclosure risk that could affect securities, covenants and investor litigation exposure.",0,54
+a0481,8,True,"Completion of a sale of manufacturing sites is a material transaction with contract, regulatory approval, environmental and post-closing indemnity implications.",0,72
+a0482,4,True,Routine quarterly results and guidance that are within prior ranges but could still matter for securities compliance and investor communications.,0,36
+a0483,4,True,"New product family launch raises IP, supplier and regulatory (standards/compliance/export) considerations but is primarily commercial news.",0,36
+a0484,4,True,"Introduction of AI-capable MCUs is business/product news that may trigger IP, licensing and emerging-AI compliance or export-control review.",0,36
+a0485,10,True,Reports a roughly $4 billion GST tax demand/notice against Infosys — a major regulatory and compliance issue with potential financial and enforcement consequences.,0,90
+a0486,9,True,Discusses the legal and interpretive GST dispute over reverse-charge on intra-group services that underpins the large tax demand.,0,81
+a0487,9,True,"Covers a partial withdrawal of the GST notice for FY2017-18, a substantive development in an ongoing tax investigation and potential liability.",0,81
+a0488,9,True,Reports that the central government may accept Infosys’s position on GST applicability — material for the outcome of a major tax litigation risk.,0,81
+a0489,6,True,Market-watch item noting the GST pre-show-cause notice withdrawal — relevant for investors but provides only routine coverage of the tax matter.,0,54
+a0490,10,True,"Reports that Karnataka GST authorities issued a ₹32,403 crore pre-show-cause notice to Infosys relate directly to major tax/regulatory action and potential litigation risk for the company and sector.",0,90
+a0491,9,True,Analysis of Infosys’ $4bn tax dispute highlights significant regulatory and financial ramifications for outsourcing firms if the demand is upheld.,0,81
+a0492,2,True,A commercial press release about an Infosys–ServiceNow AI collaboration is routine business/marketing news with no immediate legal/regulatory angle.,0,18
+a0493,10,True,FT coverage of a $3.9bn tax demand against Infosys signals a major regulatory/tax enforcement action with potential litigation and compliance consequences.,1,92
+a0494,10,True,Reuters reporting that Infosys has received a roughly $4bn tax demand is directly relevant as a significant tax enforcement action and potential legal dispute.,1,92
+a0495,0,False,Article is about Northzone promoting an internal employee and has no apparent connection to Insight Partners or legal issues.,0,0
+a0496,0,False,"This is a commercial partnership announcement for First Insight and Family Dollar, not related to Insight Partners.",0,0
+a0497,0,False,Coverage of Haus's $20M financing could be of market/competitive interest to investors but does not mention Insight Partners or legal/transactional developments.,1,2
+a0498,0,False,General reporting on Haus's $20M raise and market context is relevant industry intelligence but not directly about Insight Partners.,1,2
+a0499,0,False,"Press release details Haus's additional financing and prominent backers, which may matter to investors monitoring deal activity though it does not involve Insight Partners.",0,0
+a0500,0,False,General fundraising news about a Korean e‑commerce company with no clear link to Insight Venture Partners in the article.,0,0
+a0501,8,True,Jeffrey Horing (co‑founder/partner at Insight) selling significant nCino stock is material insider/portfolio transaction information.,0,72
+a0502,8,True,Executives at Insight Holdings selling substantial nCino shares is a direct disclosure about Insight‑related portfolio/insider activity.,0,72
+a0503,8,True,Vinted share‑sale talks implying a £3.8bn valuation are a major liquidity/valuation event for an Insight portfolio company.,0,72
+a0504,8,True,Same Vinted share‑sale/valuation story — significant potential exit/liquidity and valuation development for an Insight portfolio company.,0,72
+a0505,0,False,"Event/marketing announcement about Workato, not Insight Venture Partners, with no legal or regulatory implications.",0,0
+a0506,0,False,Leadership appointment at App Annie unrelated to Institutional Venture Partners and presents no immediate legal interest.,0,0
+a0507,0,False,Short-interest update for Inspirato is market-moving finance news but not related to Institutional Venture Partners or legal risk for the firm’s client.,0,0
+a0508,0,False,Stock price movement for Inspirato is routine market news and not about Institutional Venture Partners or any legal/regulatory action.,0,0
+a0509,3,True,"macOS beta availability for Intel Macs is a product/compatibility update relevant to Intel as a platform provider, with potential commercial and supply-chain implications.",0,27
+a0510,0,False,"Article is a retail sale piece about a Corsair PC that only mentions Intel CPUs in passing, with no legal or regulatory implications for Intel.",0,0
+a0511,7,True,"Covers CEO Pat Gelsinger's public communications amid missed targets, share-price collapse and announced job cuts, which are material corporate and reputational developments lawyers will monitor.",0,63
+a0512,7,True,Analytical piece on Intel's poor financial results and strategic problems that signals material business and governance risk relevant to counsel.,0,63
+a0513,8,True,"Reports Intel's plan to cut about 15,000 jobs, a major workforce reduction with potential compliance, employment-law and disclosure implications.",0,72
+a0514,8,True,"Covers Intel's 15% staff cuts and $10 billion cost-reduction plan, a significant corporate action with legal, regulatory and employment ramifications.",0,72
+a0515,9,True,"Mass layoffs (15,000) raise major employment, compliance, severance and potential WARN-law and contract issues lawyers must review.",0,81
+a0516,9,True,"Announcement of 15,000+ layoffs and stopping non‑essential work creates significant legal exposure around labor law, contracts and regulatory filings.",0,81
+a0517,4,True,"Competitive threats from Qualcomm could prompt IP, licensing or strategic risk assessments but is mainly business analysis rather than immediate legal action.",0,36
+a0518,0,False,Article focuses on Clippers retail/arena activity (Intuit Dome naming is incidental) and has minimal legal relevance to Intuit.,1,2
+a0519,0,False,Coverage of the Clippers’ new merchandise store relates to the arena/branding and offers little direct legal significance for Intuit.,3,6
+a0520,4,True,Naming-rights and flagship store news is primarily marketing/branding but may raise modest contract or IP/licensing considerations for counsel.,1,38
+a0521,4,True,Coverage of merchandising and the Intuit Dome focuses on commercial strategy and licensing matters that could involve IP and contract review.,1,38
+a0522,5,True,"Sustainability and carbon‑neutral claims for the Intuit Dome could implicate regulatory compliance, construction approvals, and advertising/green‑claims risk.",0,45
+a0523,4,True,"General coverage of the $2B venue is business/landmark news with potential but not immediate legal implications around construction, permitting, or naming rights.",0,36
+a0524,6,True,"Intuit's use of AI/GenAI in TurboTax raises regulatory, consumer‑protection, privacy, and accuracy/compliance issues lawyers will want to review.",0,54
+a0525,4,True,"Use of Anthropic/Amazon Bedrock in TurboTax raises potential consumer data, compliance and regulatory/privacy considerations for Intuit.",0,36
+a0526,5,True,Large-scale branch expansion in underserved areas may trigger community development/CRA scrutiny and operational regulatory considerations for JPMorgan Chase.,1,47
+a0527,5,True,Same branch-expansion story: notable operational and community investment implications that could have regulatory and compliance angles.,1,47
+a0528,9,True,CFPB scrutiny of Zelle payments indicates potential regulatory investigation or enforcement risk for JPMorgan Chase.,2,85
+a0529,1,True,Economic forecast/market commentary about Fed rate cuts is routine financial news with no direct legal angle.,0,9
+a0530,10,True,Potential enforcement action and contemplated litigation with the CFPB over Zelle is a major regulatory/legal risk for JPMorgan.,2,94
+a0531,10,True,Same report: JPMorgan is evaluating litigation in response to CFPB inquiries which could lead to enforcement action.,2,94
+a0532,2,True,Firm blog commentary on macro topics with no immediate legal or regulatory implications.,0,18
+a0533,4,True,Product launch of an LLM suite is material business news with potential future compliance and privacy considerations but no immediate legal event.,0,36
+a0534,0,False,Article about a college hackathon unrelated to the named company.,0,0
+a0535,8,True,"Material federal government contract (~$153M) with potential compliance, performance and procurement oversight implications for lawyers to review.",0,72
+a0536,5,True,Article is a local news roundup noting KBR's acquisition—useful for monitoring M&A activity but limited legal detail.,0,45
+a0537,7,True,Significant Navy engineering services contract (~$59M) that could involve government contracting rules and compliance issues.,0,63
+a0538,4,True,"Investor-focused valuation piece discusses financial performance and growth prospects, offering limited legal angles beyond disclosure and securities considerations.",0,36
+a0539,8,True,"£/~$100M UK Ministry of Defence operational support contract is a major government award with procurement, compliance and national-security considerations.",0,72
+a0540,10,True,Major M&A — KKR is taking Instructure private in a $4.8B acquisition which has direct deal and regulatory implications.,0,90
+a0541,9,True,Potential full sale/divestment of Lighthouse Learning from KKR at a $700–900M valuation with regulatory considerations for education sector investors.,0,81
+a0542,0,False,"Name match only — this story concerns the Kolkata Knight Riders (IPL) and individuals, not the KKR investment firm.",0,0
+a0543,7,True,"Significant corporate update on KKR’s investment pace and fundraising that may affect deal flow, compliance and regulatory exposure.",0,63
+a0544,4,True,Business update on KKR’s real estate activity that could lead to transactions but is general market commentary rather than immediate legal action.,0,36
+a0545,6,True,"Fund oversubscription and turning away LPs has implications for fund governance, allocation practices and regulatory/compliance with investor commitments.",0,54
+a0546,7,True,"A $240M acquisition of a Brooklyn mixed‑use tower creates material transactional, financing, title and regulatory issues requiring legal oversight.",0,63
+a0547,7,True,"The $240M purchase of the Paxton rental building triggers real estate, financing, diligence and regulatory considerations for counsel.",0,63
+a0548,3,True,Guidance that increased marketing could hurt earnings is primarily financial news but may affect securities disclosure and investor communications legal work.,0,27
+a0549,4,True,"A tech collaboration on vehicle infotainment implicates contracts, IP/licensing and product liability considerations lawyers will want to review.",0,36
+a0550,4,True,"Product and sales trends in automotive components that could affect supply contracts and competitive positioning, but no immediate legal action.",0,36
+a0551,6,True,"A technology partnership that may involve IP, licensing and supplier agreements relevant to corporate and IP counsel.",0,54
+a0552,6,True,"Potential manufacturing expansion with implications for permitting, employment, incentives and supply-chain contracts.",0,54
+a0553,4,True,Competitive market strategy in gaming monitors that may affect product positioning and commercial agreements.,0,36
+a0554,0,False,"Broad Taiwan market report about LITE-ON, not LG Electronics, so no direct legal relevance.",1,2
+a0555,0,False,Routine market-close report about Taiwan equities with no specific legal or regulatory content about LITE-ON.,1,2
+a0556,0,False,"General market-movement story tied to U.S. rally, not specific to LITE-ON and no legal implications.",0,0
+a0557,7,True,"Lam Research’s above-consensus revenue forecast and AI-driven demand could prompt securities, disclosure and investor-relations/legal review.",0,63
+a0558,6,True,Quarterly results and share reaction are material financial events relevant for disclosure and compliance monitoring.,1,56
+a0559,7,True,Q4 EPS beat and forward guidance are material financial developments that may require legal/ compliance attention.,0,63
+a0560,4,True,"Quarterly financial results may trigger SEC disclosure, reporting and investor-relations/legal considerations.",0,36
+a0561,3,True,Earnings snapshot is general financial news with limited direct legal implications beyond disclosure and securities compliance.,1,29
+a0562,7,True,"A $276M DoD task order raises contractual, compliance and performance-risk issues for the company.",0,63
+a0563,8,True,"An $823M DISA task order is a major government contract with significant compliance, cyber and contractual obligations.",1,74
+a0564,10,True,"Reported data leak exposing Pentagon documents creates serious legal exposure including breach notification, contract breach, regulatory and national-security implications.",0,90
+a0565,9,True,"Leidos is filing a protest/seek second chance over a $582.8M military family support contract award, which raises procurement and bid-challenge legal issues.",0,81
+a0566,7,True,"A senior leadership appointment (first chief AI officer) could affect governance, compliance and strategy around AI-related legal risk.",0,63
+a0567,9,True,"Leidos won a potential $823M DISA task order, a major government contract with significant compliance, performance and contractual obligations.",1,83
+a0568,1,True,This is a consumer retail promotion for a ThinkPad discount with no substantive legal or regulatory angle.,0,9
+a0569,4,True,"An apparent product page leak suggesting a new Legion Go model is primarily commercial/marketing news but could raise IP, disclosure or product-launch concerns.",2,40
+a0570,1,True,"Consumer sales/discount promotion with no apparent legal, regulatory, or compliance implications.",0,9
+a0571,1,True,Product review and retail discount news that poses no immediate legal or regulatory issues.,0,9
+a0572,2,True,Reports of an accidental product-page leak which could raise minor IP/marketing disclosure or product announcement timing considerations.,2,22
+a0573,2,True,Coverage of an apparent accidental reveal of new models on Lenovo’s site that may be relevant to disclosure controls or competitive/IP concerns.,2,22
+a0574,2,True,"Article noting a website update that seemingly confirms new models, a minor disclosure/leak angle potentially relevant to product-launch and IP oversight.",0,18
+a0575,1,True,"Product review/consumer tech coverage with no apparent legal, regulatory, or transactional implications for the company.",0,9
+a0576,1,True,"Promotional sale coverage focused on consumer deals, not raising legal or regulatory issues.",0,9
+a0577,1,True,Retail deals and product pricing coverage without an obvious legal angle.,0,9
+a0578,1,True,Aggregate best-deals article about Lenovo products with no apparent legal or regulatory content.,0,9
+a0579,7,True,"Announcement of a strategic investment involving Leonard Green & Partners signals a significant transactional event that may involve deal, regulatory, or compliance work.",0,63
+a0580,0,False,"Article concerns an environmental award for Crown Worldwide Group, not Leonard Green & Partners.",0,0
+a0581,0,False,This is a local weather forecast and has no connection to Leonard Green & Partners.,0,0
+a0582,0,False,Article covers Ares Management activity and does not involve Leonard Green & Partners.,0,0
+a0583,7,True,"Leonard Green & Partners is a participant in a strategic investment in Vital Care, a transaction relevant for deal, diligence and portfolio management legal matters.",0,63
+a0584,0,False,"News about Tapestry's executive appointment at Kate Spade, unrelated to Leonard Green & Partners.",0,0
+a0585,4,True,General market commentary from Lighthouse Canton with limited immediate legal implications but potential regulatory/market-impact relevance.,0,36
+a0586,0,False,Local disaster coverage unrelated to Lighthouse Canton and with no legal angle for the firm.,0,0
+a0587,0,False,A general tech news roundup not about Lightspeed Venture Partners and offering no direct legal issue for the firm.,0,0
+a0588,6,True,"Lightspeed led a seed investment, which is a deal-related development that could involve due diligence and transactional legal work.",0,54
+a0589,0,False,Coverage of Vinted considering a share sale is general market/news not specifically about Lightspeed and has only indirect investor implications.,0,0
+a0590,6,True,"Seed funding led by Lightspeed is a material financing event that may involve transaction documentation, portfolio risk and regulatory considerations for the firm.",0,54
+a0591,6,True,Announcement of an $8.5M seed round led by Lightspeed is a significant investment transaction with potential deal and contractual implications.,0,54
+a0592,6,True,Press release of Clutch Security's $8.5M seed raise led by Lightspeed signals a financings/transaction matter relevant to corporate and securities counsel.,0,54
+a0593,1,True,A consumer review of the Bilt Mastercard is routine marketing/consumer content with little immediate legal consequence.,1,11
+a0594,1,True,A general feature on the Bilt Mastercard is primarily consumer-facing editorial and unlikely to raise legal issues for Mastercard beyond routine marketing compliance.,0,9
+a0595,7,True,Quarterly earnings beat and spending trends are a material financial event with potential disclosure and compliance implications.,0,63
+a0596,1,True,Consumer card comparison content about a Mastercard-branded product with no apparent legal or regulatory angle.,0,9
+a0597,7,True,Earnings beat and commentary on consumer spending are material to investors and could affect regulatory disclosure or compliance considerations.,0,63
+a0598,1,True,"Product review of the Bilt Mastercard focused on consumer benefits, not legal or regulatory issues.",1,11
+a0599,6,True,A significant fundraising led by Sequoia with Matrix participating is a major financing event for the firm’s portfolio involvement.,0,54
+a0600,7,True,Matrix Partners is selling almost 20% of a portfolio company as the parent raises $100M from PE — a significant secondary/transaction event for the firm.,0,63
+a0601,0,False,"Article focuses on Ola Electric executives and IPO holdings, with no material connection to Matrix Partners.",0,0
+a0602,6,True,Criminal theft from a VC firm MD’s home may involve police action and reputational/legal issues for the firm or its senior executive.,0,54
+a0603,7,True,"Report names Matrix Partners as a party in a transaction advised by Khaitan & Co., indicating a fund/investment legal matter.",0,63
+a0604,7,True,Ola Electric’s valuation cut affects late-stage investors like Matrix Partners and could trigger write-downs or investor disputes.,0,63
+a0605,3,True,General investor/market coverage of Matrix Partners India (Z47) gains from Ola's IPO with no immediate legal or regulatory implications.,0,27
+a0606,6,True,A shareholder vote rejecting a disclosure proposal about abortion-law risks raises corporate governance and regulatory compliance considerations for McKesson.,0,54
+a0607,1,True,Routine dividend increase announcement with no substantive legal or regulatory issue.,0,9
+a0608,9,True,Federal court ruling that AIG units have no duty to defend McKesson in opioid lawsuits materially affects litigation strategy and insurer liability.,0,81
+a0609,1,True,"Technical stock-chart coverage offering buy-point analysis, which carries no direct legal significance.",0,9
+a0610,1,True,Routine investor event announcement with no immediate legal implications.,0,9
+a0611,1,True,Analyst/investment-opinion piece (stock‑buy thesis) rather than legal or regulatory news.,0,9
+a0612,4,True,"Hiring and local expansion could trigger labor, permitting, or incentive compliance issues for counsel to monitor.",0,36
+a0613,7,True,"Planned facility expansion backed by state and federal funding raises potential regulatory, incentive, and compliance/legal oversight matters.",0,63
+a0614,4,True,Company‑wide security performance requirements touch on cybersecurity compliance and contractual risk exposure.,0,36
+a0615,2,True,Product availability announcement for Surface hardware is routine commercial news with minimal legal implications.,0,18
+a0616,1,True,Retail discount for Visual Studio is consumer/marketing news and not legally significant for the company.,0,9
+a0617,8,True,"A DDoS-caused multi-hour outage affecting Azure and Microsoft 365 raises significant legal exposures around incident response, SLAs, data access and regulatory notification obligations.",0,72
+a0618,8,True,"Independent report of the same Azure outage/cyberattack presents the same legal risks around liability, regulatory reporting and customer remedies.",0,72
+a0619,6,True,"A one-time employee cash award has employment, tax and disclosure implications that in-house counsel and benefits teams will want to review.",0,54
+a0620,4,True,Quarterly revenue mix is general business news with limited immediate legal implications beyond contracts and disclosure considerations.,0,36
+a0621,7,True,"Large land purchases for a $3.3B data center raise potential zoning, permitting, environmental review, and local regulatory issues.",0,63
+a0622,7,True,"Company policy on abusive AI content has implications for compliance, regulatory scrutiny, and potential liability around deepfakes and fraud.",0,63
+a0623,7,True,"An MOU to collaborate on electrification may create antitrust, IP-sharing, and contractual risks lawyers will want to review.",1,65
+a0624,2,True,A product update on battery and features is routine commercial news with minimal immediate legal significance.,0,18
+a0625,2,True,Product review of the Pajero Sport is routine commercial/news content with no immediate legal issues.,0,18
+a0626,2,True,Model facelift teaser is routine product/news information without a clear legal angle.,0,18
+a0627,8,True,"Mitsubishi joining Honda/Nissan EV partnership raises matters for JV agreements, IP sharing and competition/regulatory review.",1,74
+a0628,8,True,"Reports of joint research talks with Nissan and Honda implicate collaboration agreements, IP rights and potential antitrust considerations.",0,72
+a0629,6,True,"Quarterly profit rise tied to asset sales and currency moves may involve significant transactions, disclosures and regulatory/contractual issues.",0,54
+a0630,8,True,"A strategic MOU among Nissan, Honda and Mitsubishi could raise antitrust, joint-venture, procurement and regulatory issues for counsel to monitor.",0,72
+a0631,4,True,"Competitor MG’s new, longer warranty affects market positioning and potential consumer/after-sales liability comparisons for Mitsubishi in Australia.",0,36
+a0632,1,True,Feature article on older Mitsubishi model is general interest automotive content with no material legal angle.,0,9
+a0633,1,True,Report of an investment position in Motorola Solutions is routine market/ownership news without legal implications.,0,9
+a0634,5,True,"Launch of Motorola Solutions’ SmartIncident product is business/product news that could have procurement, data/privacy or compliance implications for clients in public safety.",0,45
+a0635,7,True,"Quarterly earnings and revenue growth can affect securities disclosure, investor expectations and potential litigation or contractual covenants.",0,63
+a0636,7,True,Upward revisions to full-year revenue and profit are material financial disclosures that could trigger securities/regulatory scrutiny and investor implications.,0,63
+a0637,6,True,"A new commercial partnership with Sainsbury’s is a significant contract that raises commercial, compliance and data/privacy considerations.",0,54
+a0638,5,True,"A retail IT contract is standard commercial news but may involve contractual terms, implementation liability and service-level risks.",0,45
+a0639,2,True,An announcement of an earnings release date is routine investor-relations news with limited immediate legal significance.,0,18
+a0640,6,True,"NEC Asia Pacific has signed a strategic partnership with Spectro Cloud, a commercial agreement that could have contract and commercial implications.",0,54
+a0641,0,False,This item refers to a music summer series (likely New England Conservatory) and not NEC Corporation or its business activities.,0,0
+a0642,0,False,"This is a sports transfer story about NEC Nijmegen (football club), not NEC Corporation.",0,0
+a0643,0,False,"Article concerns federal grant requests for the Northeast Corridor (NEC) rail projects, not NEC Corporation.",0,0
+a0644,0,False,Regulatory and agency visits relate to the Northeast Corridor rail operations rather than NEC Corporation.,0,0
+a0645,4,True,Corporate history and CEO commentary may inform strategic and governance context but contains no immediate legal action or risk.,0,36
+a0646,0,False,"This is a class-action lawsuit alleging baby formula caused necrotizing enterocolitis — significant litigation risk, but 'NEC' here refers to the medical condition, not the NEC corporation.",0,0
+a0647,0,False,A consumer feature about an exhibition at the Birmingham NEC venue with no legal or corporate implications for NEC the company.,0,0
+a0648,0,False,"A review of the Beyond Van Gogh exhibition at the Birmingham NEC venue, not relevant to NEC corporation legal matters.",0,0
+a0649,0,False,News of policing and speeding near the NEC exhibition centre is local enforcement reporting and not about NEC the company.,0,0
+a0650,1,True,Article is a consumer piece about an exhibition hosted at Birmingham's NEC with no legal or regulatory angle.,0,9
+a0651,6,True,Inventory normalization delays and revenue decline create material financial and disclosure risk for NXP.,0,54
+a0652,5,True,NXP obtaining CCC certification affects interoperability/security standards and could have compliance/IP implications.,0,45
+a0653,2,True,Report of a fund reducing holdings is routine investor/shareholder movement with minimal legal relevance.,0,18
+a0654,3,True,Comparative industry analysis touching on NXP's market/technology position but no direct legal or regulatory developments.,0,27
+a0655,6,True,Insider purchase by the chair raises securities‑law and disclosure/compliance considerations for counsel.,0,54
+a0656,2,True,Purely technical/market commentary (RS rating) with no immediate legal or regulatory angle.,0,18
+a0657,4,True,Valuation and revenue‑mix analysis could signal business risk but is primarily investment commentary rather than a legal matter.,0,36
+a0658,0,False,"Article discusses Grade Upon Technology Corp and Fab 4.0 capabilities, not Nanya Technology.",0,0
+a0659,6,True,"A $100M Series A involving New Enterprise Associates implicates transaction, securities and diligence work for legal teams.",0,54
+a0660,0,False,A directory/listing of legal practice management startups that does not mention or concern New Enterprise Associates specifically.,0,0
+a0661,0,False,M&A in cybersecurity could have general legal implications but the piece does not appear to involve New Enterprise Associates.,0,0
+a0662,0,False,Court action in the WGA vs. talent agencies dispute (protective order) is directly litigation-related and highly relevant to litigators.,0,0
+a0663,0,False,General fintech acquisition and fundraising coverage (including Clio) that may be of industry interest but does not involve New Enterprise Associates.,0,0
+a0664,1,True,A consumer product review of Nokia phones with no apparent legal or regulatory angle for firm lawyers.,0,9
+a0665,0,False,Festival history mentioning the former event name 'Nokia Unleashed' with no corporate/legal implications.,0,0
+a0666,10,True,Amazon has filed a patent-infringement lawsuit against Nokia in Delaware alleging multiple AWS-related patent violations.,1,92
+a0667,6,True,"HMD Global says it will focus its own smartphone brand and keep Nokia primarily for feature phones, affecting the Nokia-branded device strategy and licensing.",0,54
+a0668,7,True,"TIM awarded major contracts to Nokia and Huawei in a provider reshuffle, a significant commercial win with competitive and regulatory implications.",0,63
+a0669,10,True,"Report that Amazon has sued Nokia for allegedly infringing a dozen patents, indicating major litigation risk.",0,90
+a0670,10,True,"Amazon has filed a patent lawsuit naming Nokia and its cloud offerings and customers, a high-stakes IP litigation risk.",0,90
+a0671,10,True,"Delaware federal court suit alleges infringement of a dozen cloud patents, representing major litigation exposure for Nokia.",2,94
+a0672,9,True,"Amazon is suing Nokia over cloud patents despite Nokia exiting the cloud market, creating significant IP and customer-liability issues.",1,83
+a0673,0,False,"Article covers a Hargreaves Lansdown takeover deadline extension and CVC-led consortium, not Nordic Capital.",0,0
+a0674,0,False,"RNS/offer update relates to Hargreaves Lansdown transaction paperwork and distribution restrictions, not Nordic Capital.",0,0
+a0675,9,True,"Extension affects timing and conditions of a potential takeover in which Nordic Capital is a bidder, creating material M&A/legal implications.",0,81
+a0676,9,True,Update on the offer extension relates directly to Nordic Capital's participation in the takeover process for Hargreaves Lansdown.,0,81
+a0677,0,False,General market commentary on Nordic-region hotel investment with no direct link to Nordic Capital.,0,0
+a0678,9,True,"Details major financing supporting the consortium bid that includes Nordic Capital, relevant to deal structure and obligations.",0,81
+a0679,0,False,A regional tech-hub report about Nairobi with no apparent connection to Nordic Capital.,0,0
+a0680,7,True,"Partner promotion at Northzone signals leadership change and shifts in investment focus that can affect governance, conflicts and fund strategy.",1,65
+a0681,7,True,"Partner promotion at Northzone signals leadership change and shifts in investment focus that can affect governance, conflicts and fund strategy.",1,65
+a0682,0,False,"Article is about Spring Health's funding and valuation, not Northzone, so minimal direct legal relevance.",0,0
+a0683,0,False,Coverage of Spring Health's Series E fundraising — not about Northzone and unlikely to trigger firm legal action.,0,0
+a0684,0,False,"Article discusses Thrive Capital's fund close, not Norwest Venture Partners, so low direct legal relevance.",0,0
+a0685,0,False,"Article covers a portfolio company financing that does not mention Norwest, so limited direct legal relevance.",0,0
+a0686,7,True,"Norwest led a sizable ₹200 crore investment, which raises transaction, diligence and regulatory considerations for counsel.",0,63
+a0687,0,False,Macro VC fundraising coverage may inform firm strategy and risk assessment but contains no Norwest-specific legal issues.,0,0
+a0688,1,True,A directory listing that merely includes Norwest is routine and of minimal legal interest.,0,9
+a0689,0,False,Industry fundraising report provides market context but no direct legal or deal-specific information about Norwest.,0,0
+a0690,10,True,"Novartis has filed litigation against the FDA over the approval of a generic Entresto, a direct regulatory and IP/legal dispute affecting market exclusivity.",0,90
+a0691,2,True,Patient-profile piece about a Novartis therapy with no immediate legal or regulatory implications.,0,18
+a0692,10,True,"Reports Novartis suing the FDA over generic Entresto approval, constituting major litigation and regulatory challenge.",0,90
+a0693,10,True,"Novartis is pursuing a UPC claim for imminent patent infringement against Celltrion, a significant IP litigation matter.",0,90
+a0694,10,True,"Law360 coverage of Novartis' claim that the FDA wrongly approved a generic heart drug, indicating substantial regulatory litigation.",0,90
+a0695,10,True,FDA denial affects patent/IP and generic entry plus IRA Medicare selection with major pricing and regulatory implications.,0,90
+a0696,7,True,FDA priority review is a significant regulatory development that affects approval timing and commercial/legal strategies.,0,63
+a0697,1,True,Market commentary on AI-driven sell-off with no direct legal or regulatory issues.,0,9
+a0698,2,True,"Opinion/market analysis about an AI bubble and stock declines, limited legal relevance.",0,18
+a0699,6,True,"Reported delay to a next-gen AI processor is a material operational/financial event that could trigger contract, disclosure or securities issues.",0,54
+a0700,3,True,Market-driven share decline is business news with limited direct legal implications for Nvidia itself.,0,27
+a0701,1,True,Opinion piece about buying the stock is routine investor commentary with no legal angle.,0,9
+a0702,7,True,"Reports of a chip shipment delay are material, market-moving information that could trigger disclosure and contractual concerns.",0,63
+a0703,8,True,"A multi-month design delay affecting major customers raises significant commercial, contractual and materiality risks for Nvidia.",0,72
+a0704,10,True,Two DOJ antitrust probes into acquisitions and market dominance pose major regulatory and litigation risk.,0,90
+a0705,2,True,Product/tool update about RTX and Llama 3 support—commercial/technical news with no legal/regulatory implication.,0,18
+a0706,1,True,"Routine market/stock-movement report, no apparent legal or regulatory angle.",0,9
+a0707,0,False,"Article covers Samsung's semiconductor profit surge, not ON Semiconductor.",0,0
+a0708,7,True,Earnings beat and Volkswagen deals indicate material commercial growth and contractual developments for ON Semiconductor.,0,63
+a0709,2,True,Short-interest update is investor-market information with limited immediate legal relevance.,0,18
+a0710,7,True,"Oaktree is a creditor in a hotel owner’s plan to pay off a key loan, a material debt-restructuring/credit event with potential legal and contract implications.",0,63
+a0711,9,True,"Oaktree is divesting its stake in Stade Malherbe Caen to Kylian Mbappé’s firm, a clear M&A/asset-sale transaction of interest to deal and compliance teams.",0,81
+a0712,9,True,"This reports the takeover of SM Caen from Oaktree, reflecting a significant asset sale/transaction involving the firm.",0,81
+a0713,4,True,Oaktree’s Q2 outlook is general market commentary that may inform risk assessments but contains no immediate legal action.,0,36
+a0714,9,True,Coverage that Mbappé’s fund has become majority owner of Caen confirms a major divestiture transaction involving Oaktree.,0,81
+a0715,9,True,"M&A transaction where Oaktree is selling a portfolio company — significant for deal, regulatory and contractual work.",0,81
+a0716,1,True,Routine investor commentary from Oaktree with no immediate legal or regulatory implications.,0,9
+a0717,0,False,"Policy funding cuts could affect the UK tech investment environment and portfolio companies, creating potential regulatory and commercial risks.",0,0
+a0718,0,False,Grant funding and new investment in a legal-tech firm may affect competitive dynamics and IP/contract issues relevant to investors.,0,0
+a0719,0,False,Personnel addition at an early-stage startup is routine business news with no clear legal angle.,0,0
+a0720,0,False,"Reports a large fintech funding round that could involve venture investors and deal documentation, presenting potential transactional or diligence interest.",0,0
+a0721,0,False,Chess analysis piece referencing an ‘Oracle’ (computer) with no connection to the Oracle corporation or legal matters.,0,0
+a0722,0,False,"Consumer product review of Breville’s ‘Oracle Jet’ espresso machine, unrelated to Oracle the company or legal issues.",0,0
+a0723,0,False,"Investment-advice article referencing Warren Buffett as the ‘Oracle of Omaha’, not related to Oracle the company or legal matters.",0,0
+a0724,0,False,CNET product review of Breville’s ‘Oracle Jet’ espresso machine with no legal or corporate relevance to Oracle.,0,0
+a0725,0,False,Profile of management thinker CK Prahalad uses 'oracle' metaphorically and has no legal or corporate link to Oracle the company.,0,0
+a0726,0,False,Product review of Breville's 'Oracle Jet' espresso machine is consumer press coverage and unrelated to Oracle the software company.,0,0
+a0727,0,False,"Press release about Breville launching the 'Oracle' Jet is marketing material for an unrelated product brand, not the Oracle corporation.",0,0
+a0728,0,False,Author/profile piece referencing a book titled 'The Black Bird Oracle' has no connection to Oracle the company.,0,0
+a0729,9,True,EU Commission clearance of PAI Partners' acquisition is a major merger/regulatory development with direct legal and compliance implications.,0,81
+a0730,0,False,General market story about Italian real estate attracting investors; not specifically about PAI Partners but may indicate deal flow trends.,0,0
+a0731,9,True,"Reports a majority investment by PAI Partners in Nutripure — a clear transaction relevant for deal, compliance and portfolio monitoring.",0,81
+a0732,0,False,Industry report on European direct lenders and fundraising activity; useful market context but not specifically about PAI Partners.,0,0
+a0733,0,False,Coverage of B&B Hotels' expansion in the UK is general business news with limited direct legal implications for PAI.,0,0
+a0734,0,False,A market research report on electronic manufacturing software that appears routine and unrelated to PEGATRON specifically.,0,0
+a0735,4,True,NAV update is routine investor/financial information with limited immediate legal implications but may affect disclosures and shareholder relations.,0,36
+a0736,0,False,"This item concerns Financial Partners Group (a different company), not Partners Group.",0,0
+a0737,0,False,Local municipal redevelopment story unrelated to Partners Group's business or legal exposure.,0,0
+a0738,6,True,"Transfer of FairJourney responsibilities to Partners Group signals a management/asset handover that could involve contractual, fiduciary or regulatory issues.",0,54
+a0739,0,False,Ocugen securities offering is unrelated to Partners Group.,0,0
+a0740,0,False,"Industry market report with no specific information about Powertech, offering limited immediate legal relevance.",0,0
+a0741,6,True,"Coverage of PTI's FOPLP push is material to potential commercial contracts, supply-chain agreements and IP/licensing risks.",0,54
+a0742,9,True,"Report of an explosion and fire at a P&G mill raises immediate regulatory, environmental and liability exposure.",0,81
+a0743,9,True,Local coverage of the mill fire underscores potential OSHA/environmental investigations and third‑party claims.,0,81
+a0744,4,True,Routine sales results disclosure with limited legal implications beyond standard securities/ disclosure considerations.,0,36
+a0745,3,True,Market-summary article noting P&G share decline — relevant for market/PR monitoring but no legal or regulatory issue.,0,27
+a0746,4,True,Analyst/consumer-spending piece on slowing P&G sales that flags business risk and trends but no immediate legal implications.,0,36
+a0747,7,True,Reuters report of a surprise sales drop is a material financial development that could affect investor relations and regulatory disclosure obligations.,0,63
+a0748,6,True,CNBC coverage of a weak quarter and significant share-price reaction is a major financial event relevant to governance and investor communications.,0,54
+a0749,6,True,Official P&G earnings release announcing fiscal results is material company information relevant to compliance and securities teams.,0,54
+a0750,5,True,Quarterly sales miss is material business news that could affect investor disclosures and potential contractual/financial implications for the company.,0,45
+a0751,5,True,Revenue shortfall and weaker China demand is significant commercial news with potential implications for regulatory filings and investor relations.,0,45
+a0752,3,True,ISO 20121 renewal and ESG goals are compliance/ESG developments that may interest counsel overseeing sustainability and regulatory compliance.,0,27
+a0753,2,True,Product comparison mentions Qualcomm’s chipset but is routine consumer-tech coverage with no evident legal angle.,0,18
+a0754,2,True,Product launch notes Snapdragon usage—commercial/marketing news with minimal legal relevance.,0,18
+a0755,4,True,Market reaction to earnings guidance and sales concerns could affect disclosure obligations and investor relations risk.,0,36
+a0756,3,True,New low-cost Snapdragon 4s Gen 2 product announcement is business/competitive news with limited immediate legal implications.,0,27
+a0757,4,True,Post-earnings share volatility is relevant for securities compliance and disclosure monitoring.,0,36
+a0758,4,True,Announcement of sub-$700 Snapdragon X PCs is strategic pricing/product news that could affect competitive and contract considerations.,0,36
+a0759,7,True,Earnings beat and a 12% increase in phone chip sales represent a material financial development with potential securities and regulatory implications.,0,63
+a0760,0,False,General Taiwan market/tech sell-off that could affect Quanta’s stock or trigger investor/legal scrutiny but not specifically about the company.,0,0
+a0761,0,False,Broad market decline coverage with potential financial/market-impact relevance to Quanta but no company-specific legal content.,0,0
+a0762,0,False,A Vuzix earnings call announcement unrelated to Quanta and with no apparent legal angle.,0,0
+a0763,0,False,Product rumour about Google’s streamer not connected to Quanta and unlikely to raise legal issues for the firm.,0,0
+a0764,0,False,"General FDI and manufacturing/investment trends in Vietnam that could affect Quanta’s operations or strategy, but not about the company specifically.",0,0
+a0765,7,True,"Significant quarterly earnings decline is a major financial event that could prompt investor, disclosure or compliance scrutiny.",0,63
+a0766,7,True,Sharp profit decline for the quarter is material financial news that may trigger investor relations and regulatory considerations.,0,63
+a0767,3,True,A 52-week low is market-performance news with limited immediate legal implications beyond investor perception or disclosure.,0,27
+a0768,2,True,A product announcement is routine commercial news with little direct legal relevance.,2,22
+a0769,2,True,Coverage of a new product launch is standard marketing/technical news and unlikely to raise legal issues.,1,20
+a0770,3,True,"Product launch may matter for IP, supply or regulatory considerations but presents no immediate legal action.",1,29
+a0771,0,False,General industry roundup of unicorns that is not specifically about Redpoint Ventures.,0,0
+a0772,0,False,General enterprise security news and funding coverage with no clear link to Redpoint Ventures legal matters.,0,0
+a0773,0,False,Sports/golf content unrelated to Redpoint Ventures' business or legal issues.,0,0
+a0774,6,True,"Redpoint-published headcount report signals major workforce trends that could affect employment, portfolio company risk and regulatory disclosures.",0,54
+a0775,7,True,A strategic partnership with Nidec affects Renesas' competitive position in the EV supply chain and may raise commercial and regulatory considerations.,0,63
+a0776,10,True,"Completion of the Altium acquisition is a major corporate transaction with integration, contractual and regulatory implications.",0,90
+a0777,4,True,The sustainability report outlines supply‑chain and manufacturing commitments that could create compliance and contractual obligations.,0,36
+a0778,1,True,This is a product/service marketing announcement with no immediate legal issues.,0,9
+a0779,3,True,"Industry commentary on AI and workforce transformation notes SAP's involvement and may inform future labor, compliance, or policy risks.",0,27
+a0780,7,True,Executive-board departures are material leadership changes that can affect governance and strategic direction.,3,69
+a0781,7,True,Board-level exits are significant corporate governance events that may have legal and disclosure implications.,2,67
+a0782,2,True,A product/partner announcement about RISE with SAP on AWS is routine commercial news with limited direct legal implications.,0,18
+a0783,7,True,Restructuring of the Executive Board and unexpected executive departures raise governance and compliance considerations.,1,65
+a0784,7,True,Official company announcement of board member departures is a material corporate governance development lawyers will monitor.,2,67
+a0785,10,True,"Potential US export-control restrictions targeting HBM exports to China could create major regulatory, compliance and supply-chain legal risks for SK hynix.",0,90
+a0786,1,True,Trade-show participation is routine marketing and unlikely to pose legal issues.,0,9
+a0787,4,True,New GDDR7 product launch is commercially important and may raise competitive/IP or contract implications but is not itself a legal action.,1,38
+a0788,3,True,Industry report on Samsung narrowing the AI-memory gap is competitive intelligence with limited immediate legal significance.,0,27
+a0789,1,True,Company press release promoting product performance is promotional and contains no legal developments.,1,11
+a0790,4,True,"Product launch/market entry in India is commercial news with potential consumer‑protection, warranty or regulatory considerations but no immediate legal action.",0,36
+a0791,1,True,Retail price promotion for headphones is routine marketing/sales news with no apparent legal implications.,0,9
+a0792,3,True,Film production/reshoots are entertainment operational news that could affect release timing or IP/licensing considerations but not a legal event.,0,27
+a0793,2,True,A product review of a TV is routine consumer tech coverage with no direct legal relevance.,0,18
+a0794,7,True,"A formal technology partnership with the NFL is a major commercial agreement with contractual, branding and IP implications lawyers will want to review.",1,65
+a0795,7,True,"Large commercial technology/rights contract with the NFL raises IP, contract, and compliance issues lawyers will want to review.",1,65
+a0796,7,True,"New headset product development for NFL coaching operations involves commercial agreements, IP and regulatory considerations.",0,63
+a0797,7,True,"Sony’s role in coach headsets and automated first‑down tracking implicates contracts, IP/licensing and potential regulatory or officiating data issues.",0,63
+a0798,7,True,"A broad technology partnership affecting officiating and communications creates legal issues around agreements, data use, and regulatory compliance.",0,63
+a0799,4,True,A routine share buyback update is primarily a financial disclosure matter that may require securities/compliance review.,1,38
+a0800,2,True,Routine share repurchase to support employee programs presents minimal immediate legal risk or regulatory concern.,1,20
+a0801,10,True,Announced shareholder investigation suggests potential securities litigation or regulatory scrutiny that lawyers should monitor closely.,0,90
+a0802,10,True,Another law firm announcing an investigation indicates mounting shareholder litigation risk and possible coordinated legal action.,0,90
+a0803,4,True,"Product announcement is primarily technical/business news but could have downstream IP, safety, or regulatory implications.",0,36
+a0804,0,False,Article concerns Salesforce/AWS connectivity and is unrelated to STMicroelectronics and contains no apparent legal issue.,0,0
+a0805,6,True,"Workplace policy change that could create employment-law, compliance, or labor-relations issues for Salesforce in Indianapolis.",0,54
+a0806,1,True,"Product comparison piece with no apparent legal, regulatory, or transactional implications.",0,9
+a0807,3,True,ESG and executive commentary that may inform governance and reputational risk but contains no immediate legal action.,0,27
+a0808,9,True,"Acquisition of PredictSpring is a corporate transaction with potential M&A, integration, and compliance implications.",0,81
+a0809,3,True,General guidance on AI use from Salesforce executives relevant to risk and compliance strategy but not an immediate legal matter.,0,27
+a0810,7,True,"Labor strike and its resolution present potential legal, regulatory and labor-relations risks for the company.",0,63
+a0811,5,True,Speculative leadership/intervention coverage signals internal management issues but is largely media/rumor and not a clear legal event.,0,45
+a0812,7,True,"Sharp profit increase and AI-driven chip demand are major financial developments with implications for regulatory, disclosure and M&A strategy.",0,63
+a0813,1,True,Product launch/marketing announcement with no apparent legal or regulatory angle.,0,9
+a0814,7,True,Earnings and forward guidance tied to AI chip demand are significant corporate-finance disclosures relevant to regulatory and investor-relations counsel.,0,63
+a0815,4,True,An earnings call transcript is general corporate/financial disclosure material that may contain forward-looking statements or risk commentary relevant to counsel but not an immediate legal action.,0,36
+a0816,7,True,"A large, unexpected jump in operating profit tied to AI demand is a major financial development that could trigger regulatory scrutiny, disclosure questions, or investor litigation risk.",0,63
+a0817,0,False,Article is about a baseball player (Anthony Santander) and not the Santander bank.,0,0
+a0818,3,True,A consumer-facing urgent warning could affect customers and operational/communications issues for the bank but appears to be routine consumer-advice coverage.,0,27
+a0819,4,True,Coverage of multiple upcoming product/service and rate changes may raise compliance and customer-notification considerations for the bank.,0,36
+a0820,1,True,Consumer guidance on lost cards is routine customer communications with minimal legal or regulatory implication.,0,9
+a0821,3,True,Announcement of a promotional savings rate is business/product news that could matter for consumer-pricing or marketing review but not a legal action.,0,27
+a0822,3,True,A customer competition/promotion is commercial activity with limited legal interest beyond usual promotional compliance.,0,27
+a0823,3,True,A customer service error (incorrect branch suggestion) is operational complaint material but not a regulatory or litigation issue on its face.,0,27
+a0824,0,False,"Article refers to baseball player Anthony Santander, not the bank, so it's unrelated to the company.",0,0
+a0825,1,True,A consumer product review of Santander Bank's checking/savings/CDs with no litigation or regulatory content relevant to lawyers.,0,9
+a0826,4,True,Quarterly earnings for Banco Santander-Chile are business/financial news that could inform regulatory or credit risk monitoring but contain no direct legal action.,0,36
+a0827,1,True,A marketing/contest announcement for Santander (TikTok talent search) with minimal legal relevance beyond routine contest/IP considerations.,0,9
+a0828,4,True,"Industry reporting on slowing growth at software firms (including portfolio companies) is business risk intelligence for an investor like Sapphire Ventures, not a legal event.",0,36
+a0829,5,True,Coverage of a startup funding crunch and delayed rounds is material business risk for Sapphire Ventures and could presage restructurings or default-related legal issues.,0,45
+a0830,4,True,Market data from Sapphire Ventures is general business intelligence with possible contractual/financial implications for clients but no immediate legal action.,0,36
+a0831,0,False,Article covers a funding round led by Galaxy Ventures for Layer2 Financial and is not about Sapphire Ventures.,0,0
+a0832,0,False,Covers Pendo’s acquisition of Zelta AI and does not concern Sapphire Ventures.,0,0
+a0833,2,True,A general industry piece about workforce/skills with minimal immediate legal or regulatory implications for Schneider Electric.,0,18
+a0834,6,True,"Discussion of AI edge growth and partner strategy could affect channel contracts and compliance, creating moderate legal interest.",0,54
+a0835,4,True,"Analyst note on margins and price target is market/financial news with limited immediate legal implications but relevant for disclosure, M&A or investor-relations risk assessment.",0,36
+a0836,4,True,"Earnings call transcript contains management statements and disclosures that could be relevant for compliance, investor-relations and potential litigation risk.",0,36
+a0837,1,True,Corporate sustainability program press release is routine PR with minimal direct legal relevance.,0,9
+a0838,1,True,Training programme announcement is routine HR/CSR news with little legal significance.,0,9
+a0839,2,True,Industry market-report summary mentioning Seiko Epson is general market intelligence with limited direct legal relevance.,0,18
+a0840,2,True,Product awards are routine commercial/marketing news with no immediate legal or regulatory implications.,0,18
+a0841,0,False,A broad market report on refurbished printers that does not specifically concern Epson or present legal issues.,0,0
+a0842,0,False,General foundry services market research with no direct link to Epson or legal risk.,0,0
+a0843,0,False,High-level HMD market trends press release that does not focus on Epson or raise legal concerns.,0,0
+a0844,0,False,Industry market-growth coverage of OLED micro displays without company-specific legal or regulatory relevance.,0,0
+a0845,0,False,"This is a market-size report about nanosatellites, not about Seiko Epson specifically, so it has minimal legal relevance for the firm.",0,0
+a0846,3,True,A prominent Sequoia investor's public political statements could have reputational or governance implications for the firm.,0,27
+a0847,4,True,An analysis of Sequoia's investment performance in AI is general business news that could inform client diligence or litigation/market positioning but poses no immediate legal action.,0,36
+a0848,0,False,A generic weekend-reads roundup that does not meaningfully concern Sequoia Capital.,0,0
+a0849,0,False,"Article addresses private equity political donations and tax-policy issues broadly and does not appear to be specifically about Sequoia Capital, so direct legal relevance is limited.",0,0
+a0850,0,False,SEC fraud charges against the BitClout founder are a significant regulatory development in crypto that could affect VCs with exposure to related startups or reputational risk for investors.,0,0
+a0851,0,False,General Big Tech earnings and AI capex trends may influence portfolio valuations and contract disputes but contain no immediate legal action.,0,0
+a0852,0,False,Profile of a faith‑focused startup accelerator is general business coverage with minimal legal relevance to Sequoia.,0,0
+a0853,1,True,Local product/marketing coverage of Sharp’s consumer offerings is routine commercial news with no apparent legal implications.,0,9
+a0854,0,False,A market‑size report on optoelectronics is general industry intel and not specifically about Sharp or any legal matters.,0,0
+a0855,0,False,"Generic market-research press release about the transparent electronics sector, not specific to Sharp and no legal/regulatory action.",0,0
+a0856,7,True,Reports that Sharp's CEO was dismissed and Foxconn management is taking over—material leadership change and potential governance/contract implications.,0,63
+a0857,7,True,Coverage of Sharp cutting its CEO and scaling back its LCD division represents a significant strategic and governance development.,0,63
+a0858,0,False,Broad industry report on air treatment products with no Sharp-specific content or legal angle.,0,0
+a0859,8,True,"Siemens Healthineers obtained FDA clearance for a PET/CT scanner, a significant regulatory development affecting product commercialization and compliance.",0,72
+a0860,6,True,Profile of Siemens Canada’s CEO is relevant for governance and leadership insight that can affect strategic and contractual decisions.,0,54
+a0861,5,True,Quarterly revenue and earnings growth for Siemens Healthineers is general corporate financial news that may influence commercial and regulatory considerations.,0,45
+a0862,6,True,Reuters report of China order delays signals material operational and revenue risk that could lead to contract disputes or regulatory/market impacts.,0,54
+a0863,4,True,Company press release confirming Q3 results and outlook is routine disclosure relevant for investor relations and compliance monitoring.,0,36
+a0864,4,True,WSJ coverage of rising net profit and order momentum is standard financial reporting relevant to governance and regulatory/market oversight.,0,36
+a0865,4,True,Product release roundup mentions Siemens’ simulation software updates — generally business/product news with limited immediate legal implications (possible licensing/competition considerations).,0,36
+a0866,0,False,Local accidental death in the hamlet of Silver Lake — unrelated to the Silver Lake investment firm (different entity).,0,0
+a0867,0,False,"Fatal tree incident at an Airbnb in Silver Lake concerns local public-safety reporting, not the Silver Lake private equity firm.",0,0
+a0868,0,False,"Police release about a suspect in Silver Lake burglaries pertains to neighborhood crime in Los Angeles, not the Silver Lake firm.",0,0
+a0869,0,False,"Reports of a prowler and break-ins in the Silver Lake neighborhood are local crime stories, not related to the Silver Lake investment company.",0,0
+a0870,0,False,"Article refers to the Silver Lake neighborhood, not the investment firm; no legal/transactional relevance to the company.",0,0
+a0871,9,True,Reports Silver Lake has joined a bidding war for AirTrunk operator — potential major acquisition/transaction risk.,0,81
+a0872,0,False,Obituary unrelated to the Silver Lake investment firm.,0,0
+a0873,9,True,Vocus resuming talks over TPG’s fibre assets signals renewed potential asset sale/transaction involving TPG.,0,81
+a0874,7,True,Market reaction to reports that Vocus is interested in TPG’s fibre network indicates material M&A speculation and financial risk.,0,63
+a0875,6,True,"Interview with TPG’s CEO discusses strategic shifts and consolidation in private markets that could trigger M&A, compliance and regulatory considerations for the firm.",0,54
+a0876,0,False,"This is The Points Guy’s consumer loyalty valuations (a different TPG brand), not the private equity firm, so no direct legal relevance.",0,0
+a0877,7,True,"TPG provided a $173M bridge loan for a Brooklyn multifamily project, a significant financing transaction with attendant documentation, lender exposure and real-estate legal issues.",0,63
+a0878,0,False,A prep baseball superlatives piece referring to a different ‘TPG’ context and unrelated to the firm’s legal or business matters.,0,0
+a0879,0,False,"Market commentary about ASX-listed TPG Telecom (a different company) and broader market moves, not directly relevant to the private equity firm’s legal matters.",0,0
+a0880,3,True,Quarterly earnings for TPG RE Finance Trust are routine financial disclosure that may matter for securities/compliance monitoring but do not indicate litigation or regulatory action.,0,27
+a0881,3,True,Executive commentary on capital-recycling strategy is general corporate/business news relevant for investor relations and strategic due diligence but not legally significant.,0,27
+a0882,0,False,A general industry trends piece about semiconductor manufacturing that is not specifically about TSMC and contains no legal or regulatory developments.,0,0
+a0883,0,False,Taiwan GDP data is macroeconomic news mentioning demand drivers but is not specifically about TSMC or any legal matters affecting the company.,0,0
+a0884,0,False,"A Reuters report on Taiwan's GDP growth tied to an AI-driven demand boom, which is economic context rather than a TSMC-specific legal/ regulatory story.",0,0
+a0885,0,False,"Article is about Barclays upgrading ASML, not TSMC.",0,0
+a0886,6,True,"TCS dividend enabled Tata Sons to become nearly debt-free, raising regulatory/listing and corporate-governance implications.",0,54
+a0887,2,True,Routine live stock/market update on TCS with no specific legal angle.,0,18
+a0888,6,True,"TCS plans to ramp up U.S. hiring, which raises employment, immigration and compliance considerations.",0,54
+a0889,1,True,Company press release about awards/positioning — primarily marketing with no apparent legal significance.,0,9
+a0890,10,True,"A ransomware attack on C-Edge (a TCS–SBI JV) that disrupted 300+ banks raises major incident response, regulatory, notification and liability issues for TCS.",0,90
+a0891,7,True,"A significant IT contract with Follett implicates commercial terms, data/privacy and liability provisions relevant to counsel.",0,63
+a0892,4,True,Market-cap losses mentioning TCS are general market news with limited immediate legal implications beyond disclosure and securities monitoring.,0,36
+a0893,1,True,Mahindra Group hiring a PR agency is routine corporate/marketing news with minimal legal relevance.,0,9
+a0894,6,True,"A strategic partnership between Tech Mahindra and Finastra could raise commercial contract, regulatory and fintech compliance considerations.",0,54
+a0895,4,True,General leadership/strategy commentary relevant to business direction but no immediate legal or regulatory issue.,0,36
+a0896,7,True,Delays in wage hikes raise legal/HR and retention risks and could affect financial disclosures and labor relations.,0,63
+a0897,6,True,Viral complaints about stagnant pay create reputational and employee-relations risk that could lead to complaints or scrutiny.,0,54
+a0898,1,True,A routine executive bio on the company site with no apparent legal angle.,0,9
+a0899,8,True,"Alleged pressure from Apple to close payment loopholes implicates Tencent's payments, platform compliance and potential regulatory or contractual disputes.",0,72
+a0900,1,True,Event recap of Tencent Music Entertainment Awards — promotional/industry coverage with no legal or regulatory implications.,0,9
+a0901,4,True,Industry hiring roundup that briefly mentions Tencent Music — of limited legal interest beyond potential leadership/contract implications.,0,36
+a0902,9,True,"Report that Apple is pressuring Tencent over in‑app payment loopholes and threatening to block app updates, posing major compliance, platform fee and regulatory/contract risk.",2,85
+a0903,6,True,Coverage of Tencent winning imported game approvals in China — a regulatory/licensing development material to game distribution and compliance.,0,54
+a0904,9,True,"Duplicate reporting of Apple pressuring Tencent to close app‑payment loopholes and disable features, signaling significant legal/compliance and commercial exposure.",3,87
+a0905,9,True,"Apple is pressing Tencent to close App Store fee-avoidance loopholes and has threatened to reject app updates and disable features, creating significant compliance and commercial risk.",2,85
+a0906,1,True,A routine PR announcement about Tencent Games' presence at Gamescom with no apparent legal or regulatory implications.,0,9
+a0907,9,True,"Bloomberg reports Apple is demanding fundamental app changes from Tencent over App Store fee circumvention, posing major compliance and commercial consequences.",1,83
+a0908,4,True,Coverage of Tencent Cloud's cautious stance on generative AI in gaming is general business news with potential future policy or IP implications but no immediate legal action.,0,36
+a0909,6,True,"Teradata's Q2 results and announced restructuring plan raise potential regulatory, securities disclosure and employment-law considerations.",0,54
+a0910,1,True,Routine earnings call announcement with no immediate legal implications.,0,9
+a0911,10,True,Notice of an investor class action and plaintiff recruitment indicating active litigation against Teradata.,0,90
+a0912,10,True,Law firm solicitation for securities claimants signals an ongoing or potential securities class action.,0,90
+a0913,10,True,Shareholder alert from a plaintiff firm highlighting a class action and lead plaintiff deadline.,0,90
+a0914,10,True,"Investigation notice alleging Teradata misled investors, indicating potential or ongoing securities litigation.",0,90
+a0915,6,True,Elon Musk's political endorsement changes public and regulatory perception of Tesla and creates reputational and policy risk tied to EV policy positions.,0,54
+a0916,0,False,"X/Grok's dissemination of false election information prompted official letters from secretaries of state and potential regulatory scrutiny involving Musk, but the story targets X rather than Tesla.",0,0
+a0917,3,True,A broad market sell-off hit Tesla shares — relevant for financial exposure but not an immediate legal issue.,0,27
+a0918,10,True,"A recall of more than 1.8 million vehicles involves NHTSA safety action and significant potential liability, regulatory and compliance consequences.",0,90
+a0919,4,True,Consumer reports of poor public charging experiences could increase reputational risk and lead to customer complaints or regulatory attention on charging infrastructure.,0,36
+a0920,3,True,Shows potential product durability/perception issues around the Cybertruck that could feed consumer complaints or marketing/quality scrutiny.,0,27
+a0921,10,True,"Fatal crash allegedly while vehicle was in Full Self-Driving mode raises immediate liability, regulatory and investigatory exposure.",1,92
+a0922,10,True,Reuters report that the car was in Full Self-Driving mode during a fatal motorcyclist collision signals major legal and regulatory risk.,2,94
+a0923,10,True,"AP confirmation that Tesla’s self-driving system was active in a fatal crash heightens potential investigations, litigation, and regulatory scrutiny.",1,92
+a0924,7,True,Elon Musk’s public promotion of FSD after an analyst nearly crashed raises reputational and regulatory concerns around safety claims and marketing.,0,63
+a0925,4,True,Unusual bearish options activity is market/financial news that could indicate trading patterns or disclosure issues relevant to securities counsel.,0,36
+a0926,3,True,Analyst sentiment coverage is routine market commentary with limited direct legal implications for the company.,0,27
+a0927,3,True,Negative business outlook is general industry reporting that may inform strategy but contains no immediate legal issue.,0,27
+a0928,2,True,Announcement of new short-dated options is routine market mechanics with no apparent legal significance.,0,18
+a0929,0,False,"Article concerns Boeing’s CEO appointment (a former TI engineer) and is not about Texas Instruments itself, so limited relevance to TI legal matters.",0,0
+a0930,7,True,"Earnings/distributable earnings miss is a material financial development that could affect shareholder litigation risk, disclosure obligations and investor relations.",0,63
+a0931,7,True,"Sale of a $3bn energy company and record AUM are material transactions that may raise regulatory, contractual and disclosure considerations.",0,63
+a0932,6,True,Deal to sell Cogentrix Energy and resulting share movement is a significant M&A event with potential transaction and disclosure implications.,0,54
+a0933,6,True,"The Q2 earnings call transcript provides material statements and guidance that could be relevant to disclosure, compliance and securities risk analysis.",0,54
+a0934,7,True,"Worse-than-expected Q2 results is a material financial event that can trigger investor scrutiny, disclosure issues and potential governance questions.",0,63
+a0935,10,True,"A $3B sale is a material M&A transaction with significant deal, regulatory and contractual implications lawyers will need to review.",0,90
+a0936,2,True,A shareholder share sale is a routine securities filing/insider transaction with limited immediate legal implications.,0,18
+a0937,1,True,A relative strength rating upgrade is market/financial commentary with no direct legal angle.,0,9
+a0938,1,True,A conference showcase is marketing/product publicity and does not raise immediate legal issues.,0,9
+a0939,4,True,"Introduction of a novel pre‑transplant diagnostic via CLIA operations may trigger regulatory, compliance and liability considerations lawyers should monitor.",0,36
+a0940,4,True,Corporate expansion into semiconductor testing with TSMC could create new commercial contracts and supply-chain or export-control considerations.,0,36
+a0941,1,True,Philanthropic fellowship announcement is routine corporate social-responsibility news with no immediate legal implications.,0,9
+a0942,6,True,Large fund distributions and returns to backers are a significant financial event that may affect investor relations and fund governance.,0,54
+a0943,7,True,"A multibillion-dollar share sale could trigger securities-disclosure, market-movement and potential regulatory scrutiny issues.",0,63
+a0944,4,True,Major funding and valuation for a portfolio company is material business news with possible securities and contractual implications.,0,36
+a0945,6,True,"Reports the collapse/valuation wipeout of a Tiger-backed start-up, raising potential insolvency, investor-loss and litigation or restructuring risks.",0,54
+a0946,5,True,"Coverage of Tiger Global leading a $50M financing round, which is a transactional event that may involve securities, investor rights and documentation issues.",0,45
+a0947,7,True,"Senior partner departure at Tiger Global could affect portfolio oversight, continuity, potential employment/partnership exit terms and conflicts of interest.",0,63
+a0948,0,False,Article focuses on Ola Electric’s IPO and beneficiaries and does not concern Tiger Global.,0,0
+a0949,0,False,General market movers piece about Tokyo Electron and other stocks with no connection to Tiger Global.,0,0
+a0950,9,True,"Major export-control rule change directly affects Tokyo Electron’s ability to ship key chipmaking equipment to China, with strong compliance and market-access implications.",0,81
+a0951,7,True,Report that allies may be exempted from new US curbs is material market and regulatory news affecting Tokyo Electron’s sales and risk exposure.,0,63
+a0952,8,True,Announcement of US rules and Entity List additions signals significant export-control and compliance changes impacting Tokyo Electron’s China business.,0,72
+a0953,6,True,Toyota’s record profit story is legally relevant because it mentions an ongoing certification scandal that could draw regulatory or litigation risk despite strong earnings.,0,54
+a0954,4,True,Quarterly profit increase is primarily business/financial news with limited immediate legal implications beyond routine regulatory and compliance monitoring.,0,36
+a0955,10,True,"The Transport Ministry issued a corrective order after finding intentional misconduct in Toyota’s vehicle certification procedures, triggering regulatory enforcement and compliance risk.",0,90
+a0956,4,True,"First-half sales decline is standard business news but may affect contractual, disclosure and compliance considerations.",0,36
+a0957,3,True,Market-position reporting is general business news with little direct legal significance beyond competition and disclosure context.,0,27
+a0958,8,True,Production drop tied to the certification scandal signals material operational and regulatory fallout that legal teams should monitor.,0,72
+a0959,1,True,Routine consumer/marketing coverage of Unilever activities with no apparent legal or regulatory implications.,0,9
+a0960,2,True,Routine small-scale share buyback announcement with no apparent regulatory or litigation implications.,0,18
+a0961,4,True,"Strategic shift to volume-based growth is general business news that could have downstream legal/commercial implications (pricing, contracts, competition).",0,36
+a0962,7,True,Covers AI governance and regulatory scrutiny with direct relevance to Unilever’s compliance preparations and potential regulatory risk exposure.,0,63
+a0963,4,True,"Corporate discussion of AI use in supply-chain operations that raises operational, data/privacy and contract considerations but is largely informational.",0,36
+a0964,9,True,"Direct coverage of the EU AI Act coming into force and Unilever’s preparations, representing a major regulatory compliance issue for the company.",0,81
+a0965,7,True,"Quarterly loss is a material financial result that could affect disclosure, covenant compliance and investor relations.",0,63
+a0966,7,True,Beating EPS and providing guidance are material financial developments relevant to securities disclosure and investor communications.,0,63
+a0967,3,True,An institutional investor increasing its stake is routine market activity with limited direct legal implications.,0,27
+a0968,4,True,An executive interview on cybersecurity is business/PR content that may touch on compliance and risk management but is not a legal action.,0,36
+a0969,2,True,Participation in an investor conference is routine corporate outreach with minimal legal relevance.,0,18
+a0970,6,True,Quarterly earnings release is a material financial disclosure that could affect investor relations and securities exposure.,1,56
+a0971,2,True,An analyst upgrade is market/financial coverage with limited direct legal implications for the company.,0,18
+a0972,6,True,The earnings call transcript may contain forward‑looking statements or disclosures relevant to securities compliance and investor communications.,0,54
+a0973,4,True,A business summary of growth and technology developments provides commercial context but no immediate legal or regulatory event.,0,36
+a0974,6,True,"Earnings beat and stock movement are material financial events relevant to securities, disclosure and investor relations risk.",2,58
+a0975,4,True,"Quarterly results are business material that may implicate securities disclosure, contract performance, or regulatory issues.",1,38
+a0976,0,False,Local museum discount promotion unrelated to the VINCI company.,0,0
+a0977,0,False,"Article concerns a traveling Leonardo da Vinci exhibit and local venue plans, not the VINCI firm.",0,0
+a0978,0,False,Coverage of Vatican criticism of an Olympics skit is unrelated to the VINCI company and has only general reputational interest.,1,2
+a0979,0,False,Duplicate coverage of the Vatican response to the Paris opening ceremony; not about the VINCI company.,1,2
+a0980,0,False,"Article concerns Vatican reaction to the Olympic ceremony, not the VINCI company.",0,0
+a0981,0,False,"Opinion column about Leonardo da Vinci and cultural topics, unrelated to the VINCI firm.",0,0
+a0982,6,True,Content from VINCI's corporate site covering projects and human rights could have compliance and reputational/legal implications.,0,54
+a0983,0,False,"News about investigations into threats over the Olympic ceremony artistic director, not about the VINCI company.",0,0
+a0984,0,False,"Local school superintendent news about 'da Vinci Schools,' unrelated to VINCI the company.",0,0
+a0985,0,False,"Article concerns a controversy over the Paris Olympics opening ceremony depiction, not VINCI the company.",0,0
+a0986,0,False,Coverage of the Olympics 'Last Supper' segment and backlash is unrelated to VINCI's business or legal exposure.,0,0
+a0987,2,True,Reports unusually bullish options flow in Valero—market activity of possible interest to trading or compliance teams but not a legal event.,0,18
+a0988,1,True,"Routine notice that new short-dated options began trading on Valero, standard market information with no immediate legal angle.",0,9
+a0989,1,True,Disclosure of an institutional holding in Valero is routine ownership reporting and not a legal or regulatory development.,0,9
+a0990,1,True,Technical stock-rating movement is routine market commentary with no apparent legal or regulatory implications.,0,9
+a0991,1,True,General positive stock/market coverage of Valero’s business is commercial/market news without legal significance.,0,9
+a0992,1,True,"Investor-oriented dividend discussion about Verizon is routine financial commentary, not a legal or regulatory matter.",0,9
+a0993,1,True,Yield and market-drop investment advice is financial content with no immediate legal relevance.,0,9
+a0994,1,True,A brief intraday price update is routine market reporting and does not suggest legal risk or action.,0,9
+a0995,2,True,Short-interest movement is market data with minimal direct legal implications for Verizon beyond potential investor relations or activism monitoring.,0,18
+a0996,4,True,Slow fundraising is a business trend that may affect fund formation timing and related regulatory/compliance considerations for Vista.,0,36
+a0997,9,True,"Direct lenders seizing control of Pluralsight signals a creditor-led takeover/restructuring with significant contractual, insolvency and governance issues lawyers must track.",0,81
+a0998,0,False,Announcement about a marketing appointment at Pipedrive is routine commercial news and not about Vista Equity Partners.,0,0
+a0999,0,False,A broad funding roundup is general market coverage with limited specific legal implications for Vista.,0,0
+a1000,0,False,"General fundraising/SPAC activity about a software entrepreneur, not specifically about Vista Equity Partners, with only possible indirect legal relevance.",0,0
+a1001,0,False,Earnings story about Ares and exposure to a failed software firm (Pluralsight) that may have financial/credit implications but does not appear to be about Vista Equity Partners directly.,0,0
+a1002,0,True,Pure consumer retail promotion for a product sold at Walmart with no apparent legal angle.,0,0
+a1003,9,True,"On-site homicide at a Walmart store creates an active criminal investigation and potential premises liability, security and regulatory concerns.",0,81
+a1004,0,True,Consumer discount promotion on a smartwatch at Walmart with no immediate legal implications.,0,0
+a1005,1,True,Product discount/retail promotion with no legal angle.,0,9
+a1006,1,True,Retail deal on networking hardware; routine consumer news without legal implications.,0,9
+a1007,9,True,"Coverage of the El Paso Walmart mass shooting with significant potential liability, criminal and regulatory implications.",0,81
+a1008,7,True,"Reporting on Walmart's pricing promise after a competitor's warning, relevant to competitive, financial and potential regulatory/legal scrutiny.",0,63
+a1009,2,True,Community health/wellness event announcement with minimal legal relevance.,0,18
+a1010,1,True,A promotional public-health event with minimal legal implications beyond routine operational/privacy considerations.,0,9
+a1011,7,True,"Alleged stabbing on Walmart premises raises potential criminal investigation, premises-liability and security risk.",0,63
+a1012,7,True,Company-wide rollout of accessible shopping carts implicates ADA compliance and could affect litigation/regulatory exposure.,0,63
+a1013,3,True,Weather/tornado warning affects park operations and guest safety but is routine emergency information with limited legal significance.,0,27
+a1014,4,True,Extended tornado watch and hurricane impacts may cause operational disruptions and potential safety/liability issues for the resorts.,0,36
+a1015,2,True,Weather-related travel guidance for Disney World may affect operations and guest cancellations but presents minimal direct legal risk.,0,18
+a1016,1,True,Product/merchandise release and event coverage is commercial/marketing news with no obvious legal implications.,0,9
+a1017,1,True,Listing of seasonal merchandise is routine retail news without immediate legal significance.,0,9
+a1018,2,True,Operational change (extended hours) affects guest policies and staffing but is not a legal development.,0,18
+a1019,2,True,"Severe weather forecast for Walt Disney World could trigger operational or liability considerations, though it's routine advance notice.",0,18
+a1020,1,True,"Human-interest historical piece about Walt Disney with no legal, regulatory, or commercial implications for the firm.",0,9
+a1021,1,True,Consumer travel advice about Disney World that presents no legal or regulatory issues for counsel.,0,9
+a1022,3,True,"Company press release about a major marketing campaign that could have IP, advertising compliance, or endorsement considerations.",0,27
+a1023,1,True,Routine resort update regarding operations and parks with no apparent legal or regulatory significance.,0,9
+a1024,7,True,"Significant capital injection by Warburg Pincus into an insurer that may raise regulatory, financial, or transaction-related legal issues.",1,65
+a1025,7,True,"Additional capital contribution by Warburg Pincus involves transaction documentation, investor rights and potential governance changes lawyers will need to review.",1,65
+a1026,7,True,"Formation of a new real estate/life sciences platform implicates JV agreements, regulatory approvals and commercial contracts requiring legal oversight.",1,65
+a1027,7,True,"Sale and JV creation in APAC raises cross‑border transaction, regulatory and property/title due diligence issues for counsel.",0,63
+a1028,7,True,"Launch of a life sciences real estate platform entails complex partnership agreements, leasing structures and regulatory compliance lawyers should assess.",1,65
+a1029,8,True,"A $576M property acquisition by a Warburg Pincus‑backed REIT is a major transaction with significant M&A, financing, regulatory and real estate legal implications.",0,72
+a1030,4,True,IT infrastructure upgrade is a business/contractual development that could affect vendor agreements and procurement but poses limited immediate legal risk.,0,36
+a1031,9,True,"Reported workplace violence, removal of a senior India executive and an apology raise potential labor-law, safety investigations and liability exposure.",0,81
+a1032,0,False,General market forecast for the EMS sector with no substantive information specifically about Wistron.,0,0
+a1033,0,False,"A sector-wide worker protest in Bengaluru not tied to Workday specifically, so limited direct legal relevance to the company.",0,0
+a1034,7,True,"A Financial Analyst Day is a material investor-relations event that can have disclosure, governance and securities-law implications.",0,63
+a1035,6,True,"Partnership with Salesforce raises contract, data-sharing, IP and vendor-risk issues lawyers would review.",0,54
+a1036,7,True,"Appointment of a new Chief Accounting Officer has implications for financial controls, SEC/GAAP reporting and disclosure obligations.",0,63
+a1037,5,True,"New AI hiring/talent products may trigger HR compliance, data-privacy and bias/discrimination risk assessments.",1,47
+a1038,0,False,Campus gate closures are unrelated to Workday the company.,0,0
+a1039,5,True,"Launch of AI capabilities post-HiredScore acquisition presents integration, data-privacy and employment-law considerations.",2,49
+a1040,3,True,Product integration raises HR/AI compliance and vendor-contract considerations but is routine product news.,1,29
+a1041,6,True,A deeper Salesforce‑Workday partnership could create significant commercial and data/privacy contract implications for the company.,0,54
+a1042,0,False,Article discusses off‑street parking market research and is not actually about Xerox Corporation.,0,0
+a1043,0,False,Market report on higher education names other vendors and does not appear to concern Xerox Corporation.,0,0
+a1044,5,True,"A 52‑week low in Xerox stock is material market news that may prompt securities, disclosure, or investor‑relations attention.",0,45
+a1045,4,True,Market-research mention of Xerox is general business coverage useful for competitive/intellectual property and market-position monitoring.,0,36
+a1046,0,False,This local zoning decision does not appear related to Xerox.,0,0
+a1047,0,False,Article recounts Apple–Microsoft litigation history and does not concern Xerox.,0,0
+a1048,4,True,Market study names ZTE and covers industry trends relevant to competitive and regulatory monitoring for the company.,0,36
+a1049,5,True,"Technical launch by ZTE may have commercial and regulatory implications (contracts, export controls) worth watching.",1,47
+a1050,4,True,Product/technology partnership and 5G demonstration that may impact commercial and IP considerations but is primarily business/marketing news.,0,36
+a1051,2,True,Routine market/technical stock movement report with no apparent legal or regulatory implications.,0,18
+a1052,4,True,"Commercial rollout of 5G-Advanced live broadcast involving ZTE that could affect contracts, spectrum use or regulatory compliance but is mainly a business deployment update.",0,36
+a1053,3,True,"Inclusion in a market research press release noting TD-LTE ecosystem growth, relevant for competitive/intel purposes but not a legal event.",0,27
+a1054,4,True,Major technical transmission system deployment with China Telecom that is commercially significant and could have procurement or compliance implications.,1,38
+a1055,4,True,Market report mentioning dormakaba is general industry coverage that may indicate market trends but poses no immediate legal issue.,0,36
+a1056,4,True,Mortise lock market forecast cites dormakaba as a player—useful commercial/intel context but not a legal development.,0,36
+a1057,1,True,Local charity football event involving Dormakaba is routine community relations content with no legal angle.,0,9
+a1058,4,True,"Turnstile market report references dormakaba in industry trend coverage, relevant for commercial strategy but not legal risk.",0,36
+a1059,2,True,eBay Foundation board appointments are routine corporate/Foundation governance/CSR news with minimal legal implications.,0,18
+a1060,7,True,"Quarterly earnings and financial metrics can affect disclosure obligations, securities compliance and potential investor litigation risk.",0,63
+a1061,7,True,The earnings call transcript may contain forward-looking statements and management commentary that are relevant for securities compliance and potential disclosure risk.,0,63
+a1062,6,True,"Reporter analysis of sales drivers could signal strategic shifts with contract, antitrust or regulatory implications worth monitoring.",0,54
+a1063,7,True,The company’s formal earnings release is material disclosure relevant to SEC compliance and potential shareholder/legal implications.,0,63

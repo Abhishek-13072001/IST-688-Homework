@@ -1,0 +1,95 @@
+model,question,seconds,tokens,tools,answer
+gpt-5-mini,Lawsuits about patents,8.3,4475,top_news,"1. **Amazon sues Nokia for cloud computing patent infringement**  
+   Company: Nokia  
+   Source: datacenterdynamics.com  
+   Date: 2024-07-31  
+   Link: https://www.datacenterdynamics.com/en/news/amazon-sues-nokia-for-cloud-computing-patent-infringement/  
+   Interest score: 94/100  
+   Why a lawyer should care: Delaware federal court suit alleges infringement of a dozen cloud patents, representing major litigation exposure for Nokia. Several articles cover this story.
+
+2. **Novartis sues FDA over ‘unlawful’ approval of generic heart failure drug**  
+   Company: Novartis  
+   Source: cardiovascularbusiness.com  
+   Date: 2024-08-02  
+   Link: https://cardiovascularbusiness.com/topics/healthcare-management/legal-news/novartis-sues-fda-over-unlawful-approval-generic-heart-failure-drug  
+   Interest score: 90/100  
+   Why a lawyer should care: Novartis has filed litigation against the FDA over the approval of a generic Entresto, a direct regulatory and IP/legal dispute affecting market exclusivity. Several articles cover this story."
+gpt-5-mini,Find the most interesting news,13.4,5879,top_news,"1. **Amazon sues Nokia for cloud computing patent infringement**  
+   Company: Nokia  
+   Source: datacenterdynamics.com  
+   Date: 2024-07-31  
+   Link: https://www.datacenterdynamics.com/en/news/amazon-sues-nokia-for-cloud-computing-patent-infringement/  
+   Interest score: 94/100  
+   Why a lawyer should care: Delaware federal court suit alleges infringement of a dozen cloud patents, representing major litigation exposure for Nokia. Several articles cover this story.
+
+2. **Coca-Cola to pay $6 billion in back taxes and interest to the IRS after tax court ruling**  
+   Company: Coca-Cola  
+   Source: foxbusiness.com  
+   Date: 2024-08-04  
+   Link: https://www.foxbusiness.com/markets/coca-cola-pay-6-billion-back-taxes-interest-irs-tax-court-ruling  
+   Interest score: 94/100  
+   Why a lawyer should care: Major tax court ruling requires Coca‑Cola to pay $6 billion in back taxes and interest — significant legal and tax exposure.
+
+3. **JPMorgan considers suing consumer watchdog over Zelle**  
+   Company: JPMorgan Chase  
+   Source: ca.finance.yahoo.com  
+   Date: 2024-08-02  
+   Link: https://ca.finance.yahoo.com/news/jpmorgan-considers-suing-consumer-watchdog-205720073.html  
+   Interest score: 94/100  
+   Why a lawyer should care: Report that JPMorgan is evaluating litigation in response to CFPB inquiries which could lead to enforcement action.
+
+4. **Tesla car that killed Seattle motorcyclist was in 'Full Self-Driving' mode, police say**  
+   Company: Tesla  
+   Source: reuters.com  
+   Date: 2024-07-31  
+   Link: https://www.reuters.com/business/autos-transportation/tesla-was-full-self-driving-mode-when-it-hit-killed-seattle-motorcylist-police-2024-07-31/  
+   Interest score: 94/100  
+   Why a lawyer should care: Report that the car was in Full Self‑Driving mode during a fatal motorcyclist collision signals major legal and regulatory risk. Several articles cover this story.
+
+5. EU approves Hewlett Packard Enterprise's $14 bln Juniper deal  
+   Company: Hewlett Packard Enterprise  
+   Source: reuters.com  
+   Date: 2024-08-01  
+   Link: https://www.reuters.com/markets/deals/eu-approves-hewlett-packard-enterprises-14-bln-juniper-deal-2024-08-01/  
+   Interest score: 92/100  
+   Why a lawyer should care: EU antitrust authority unconditionally approved HPE’s $14 billion acquisition of Juniper, a major merger/competition development lawyers will track. Several articles cover this story.
+
+6. Indian IT services giant Infosys gets $4 billion tax demand  
+   Company: Infosys  
+   Source: reuters.com  
+   Date: 2024-07-31  
+   Link: https://www.reuters.com/technology/indias-infosys-gets-324-billion-rupees-tax-demand-2024-07-31/  
+   Interest score: 92/100  
+   Why a lawyer should care: Reuters reporting that Infosys has received a roughly $4bn tax demand is directly relevant as a significant tax enforcement action and potential legal dispute. Several articles cover this story.
+
+7. 3 Firms Guide $1.75B Thoughtworks-Apax Deal, Stock Soars  
+   Company: Apax Partners  
+   Source: law360.com  
+   Date: 2024-08-05  
+   Link: https://www.law360.com/illinois/articles/1866318/3-firms-guide-1-75b-thoughtworks-apax-deal-stock-soars  
+   Interest score: 90/100  
+   Why a lawyer should care: Law360 coverage of the $1.75B Thoughtworks‑Apax deal and the advising firms is directly relevant to transactional and regulatory counsel. Several articles cover this story.
+
+8. After Infosys, tax authorities may issue GST notices to more IT companies for alleged tax evasion: Report  
+   Company: Infosys  
+   Source: livemint.com  
+   Date: 2024-08-01  
+   Link: https://www.livemint.com/companies/news/after-infosys-tax-authorities-may-issue-gst-notices-to-more-it-companies-for-alleged-tax-evasion-report-11722530834453.html  
+   Interest score: 90/100  
+   Why a lawyer should care: Reports that Karnataka GST authorities issued a ₹32,403 crore pre-show-cause notice to Infosys relate directly to major tax/regulatory action and potential litigation risk for the company and sector.
+
+9. Novartis sues FDA over ‘unlawful’ approval of generic heart failure drug  
+   Company: Novartis  
+   Source: cardiovascularbusiness.com  
+   Date: 2024-08-02  
+   Link: https://cardiovascularbusiness.com/topics/healthcare-management/legal-news/novartis-sues-fda-over-unlawful-approval-generic-heart-failure-drug  
+   Interest score: 90/100  
+   Why a lawyer should care: Novartis has filed litigation against the FDA over the approval of a generic Entresto, a direct regulatory and IP/legal dispute affecting market exclusivity. Several articles cover this story.
+
+10. TowerBrook, CD&R take health tech company R1 RCM private in $8.9B deal  
+    Company: Clayton, Dubilier & Rice  
+    Source: fiercehealthcare.com  
+    Date: 2024-08-01  
+    Link: https://www.fiercehealthcare.com/finance/towerbrook-cdr-take-health-tech-company-r1-rcm-private-89b-deal  
+    Interest score: 90/100  
+    Why a lawyer should care: Definitive take‑private acquisition of R1 RCM in a large $8.9B deal involves significant M&A, regulatory and transaction matters. Several articles cover this story."

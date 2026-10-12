@@ -1,0 +1,74 @@
+model,question,seconds,tokens,tools,answer
+gpt-5-mini,Lawsuits about patents,8.5,4232,search_news,"1. **Amazon sues Nokia for cloud computing patent infringement** — Nokia; datacenterdynamics.com; 2024-07-31  
+   https://www.datacenterdynamics.com/en/news/amazon-sues-nokia-for-cloud-computing-patent-infringement/  
+   Interest score: 94/100  
+   Several articles cover it. Why a lawyer should care: Delaware federal court suit alleges infringement of a dozen cloud patents, representing major litigation exposure for Nokia.
+
+2. **Novartis sues FDA over ‘unlawful’ approval of generic heart failure drug** — Novartis; cardiovascularbusiness.com; 2024-08-02  
+   https://cardiovascularbusiness.com/topics/healthcare-management/legal-news/novartis-sues-fda-over-unlawful-approval-generic-heart-failure-drug  
+   Interest score: 90/100  
+   Several articles cover it. Why a lawyer should care: Novartis has filed litigation against the FDA over the approval of a generic Entresto, a direct regulatory and IP/legal dispute affecting market exclusivity.
+
+3. **Imminent infringement at the core of Novartis’ UPC claim against Celltrion** — Novartis; juve-patent.com; 2024-08-01  
+   https://www.juve-patent.com/cases/imminent-infringement-at-the-core-of-novartis-upc-claim-against-celltrion/  
+   Interest score: 90/100  
+   Why a lawyer should care: Novartis is pursuing a UPC claim for imminent patent infringement against Celltrion, a significant IP litigation matter.
+
+4. **TERADATA SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Teradata Corporati** — Teradata; prnewswire.com; 2024-08-03  
+   https://www.prnewswire.com/news-releases/teradata-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick--foti-llc-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-teradata-corporation---tdc-302213720.html  
+   Interest score: 90/100  
+   Why a lawyer should care: Shareholder alert from a plaintiff firm highlighting a class action and lead plaintiff deadline.
+
+5. **IMMINENT TDC DEADLINE: Bronstein, Gewirtz & Grossman LLC Reminds Teradata Corporation Investors to Join the Class Action Lawsuit!** — Teradata; accesswire.com; 2024-08-04  
+   https://www.accesswire.com/878071/imminent-tdc-deadline-bronstein-gewirtz-grossman-llc-reminds-teradata-corporation-investors-to-join-the-class-action-lawsuit  
+   Interest score: 90/100  
+   Why a lawyer should care: Notice of an investor class action and plaintiff recruitment indicating active litigation against Teradata."
+gpt-5-mini,Find the most interesting news,11.7,6508,top_news,"1. **Amazon sues Nokia for cloud computing patent infringement** — Nokia; datacenterdynamics.com; 2024-07-31  
+   https://www.datacenterdynamics.com/en/news/amazon-sues-nokia-for-cloud-computing-patent-infringement/  
+   Interest score: 94/100  
+   Several articles cover it. Why a lawyer should care: Delaware federal court suit alleges infringement of a dozen cloud patents, representing major litigation exposure for Nokia.
+
+2. **Coca-Cola to pay $6 billion in back taxes and interest to the IRS after tax court ruling** — Coca-Cola; foxbusiness.com; 2024-08-04  
+   https://www.foxbusiness.com/markets/coca-cola-pay-6-billion-back-taxes-interest-irs-tax-court-ruling  
+   Interest score: 94/100  
+   Several articles cover it. Why a lawyer should care: Major tax court ruling requires Coca‑Cola to pay $6 billion in back taxes and interest — significant legal and tax exposure.
+
+3. **JPMorgan considers suing consumer watchdog over Zelle** — JPMorgan Chase; ca.finance.yahoo.com; 2024-08-02  
+   https://ca.finance.yahoo.com/news/jpmorgan-considers-suing-consumer-watchdog-205720073.html  
+   Interest score: 94/100  
+   Several articles cover it. Why a lawyer should care: JPMorgan is evaluating litigation in response to CFPB inquiries which could lead to enforcement action.
+
+4. **Tesla car that killed Seattle motorcyclist was in 'Full Self-Driving' mode, police say** — Tesla; reuters.com; 2024-07-31  
+   https://www.reuters.com/business/autos-transportation/tesla-was-full-self-driving-mode-when-it-hit-killed-seattle-motorcylist-police-2024-07-31/  
+   Interest score: 94/100  
+   Several articles cover it. Why a lawyer should care: Reuters report that the car was in Full Self‑Driving mode during a fatal motorcyclist collision signals major legal and regulatory risk.
+
+5. **EU approves Hewlett Packard Enterprise's $14 bln Juniper deal** — Hewlett Packard Enterprise; reuters.com; 2024-08-01  
+   https://www.reuters.com/markets/deals/eu-approves-hewlett-packard-enterprises-14-bln-juniper-deal-2024-08-01/  
+   Interest score: 92/100  
+   Several articles cover it. Why a lawyer should care: EU antitrust authority unconditionally approved HPE’s $14 billion acquisition of Juniper, a major merger/competition development lawyers will track.
+
+6. **Indian IT services giant Infosys gets $4 billion tax demand** — Infosys; reuters.com; 2024-07-31  
+   https://www.reuters.com/technology/indias-infosys-gets-324-billion-rupees-tax-demand-2024-07-31/  
+   Interest score: 92/100  
+   Several articles cover it. Why a lawyer should care: Reuters reporting that Infosys has received a roughly $4bn tax demand is directly relevant as a significant tax enforcement action and potential legal dispute.
+
+7. **3 Firms Guide $1.75B Thoughtworks-Apax Deal, Stock Soars** — Apax Partners; law360.com; 2024-08-05  
+   https://www.law360.com/illinois/articles/1866318/3-firms-guide-1-75b-thoughtworks-apax-deal-stock-soars  
+   Interest score: 90/100  
+   Several articles cover it. Why a lawyer should care: Law360 coverage of the $1.75B Thoughtworks‑Apax deal and the advising firms is directly relevant to transactional and regulatory counsel.
+
+8. **After Infosys, tax authorities may issue GST notices to more IT companies for alleged tax evasion: Report** — Infosys; livemint.com; 2024-08-01  
+   https://www.livemint.com/companies/news/after-infosys-tax-authorities-may-issue-gst-notices-to-more-it-companies-for-alleged-tax-evasion-report-11722530834453.html  
+   Interest score: 90/100  
+   Several articles cover it. Why a lawyer should care: Reports that Karnataka GST authorities issued a ₹32,403 crore pre‑show‑cause notice to Infosys relate directly to major tax/regulatory action and potential litigation risk for the company and sector.
+
+9. **Novartis sues FDA over ‘unlawful’ approval of generic heart failure drug** — Novartis; cardiovascularbusiness.com; 2024-08-02  
+   https://cardiovascularbusiness.com/topics/healthcare-management/legal-news/novartis-sues-fda-over-unlawful-approval-generic-heart-failure-drug  
+   Interest score: 90/100  
+   Several articles cover it. Why a lawyer should care: Novartis has filed litigation against the FDA over the approval of a generic Entresto, a direct regulatory and IP/legal dispute affecting market exclusivity.
+
+10. **TowerBrook, CD&R take health tech company R1 RCM private in $8.9B deal** — Clayton, Dubilier & Rice; fiercehealthcare.com; 2024-08-01  
+    https://www.fiercehealthcare.com/finance/towerbrook-cdr-take-health-tech-company-r1-rcm-private-89b-deal  
+    Interest score: 90/100  
+    Several articles cover it. Why a lawyer should care: Definitive take‑private acquisition of R1 RCM in a large $8.9B deal involves significant M&A, regulatory and transaction matters."
